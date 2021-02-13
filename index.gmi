@@ -11,7 +11,7 @@
 I am a person, and I do person things.
 
 ## Gemlog
-
+Coming soon.
 
 ## Why Gemini?
 => https://suckless.org/sucks/web/ Because of this.
