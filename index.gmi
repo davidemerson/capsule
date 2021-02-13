@@ -10,6 +10,9 @@
 ## About
 I am a person, and I do person things.
 
+## Gemlog
+
+
 ## Why Gemini?
 => https://suckless.org/sucks/web/ Because of this.
 
