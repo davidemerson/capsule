@@ -8,9 +8,10 @@
 ```
 
 ## About
-I am a person, and I do person things. Also, almost everything is too bloated, including the web. Before Gemini, my site design reference was:
+I am a person, and I do person things.
 
-=> https://motherfuckingwebsite.com/
+## Why Gemini?
+=> https://suckless.org/sucks/web/ Because of this.
 
 Content over bling. There will be more content here eventually.
 
