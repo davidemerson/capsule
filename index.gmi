@@ -28,7 +28,7 @@ Content over bling. There will be more content here eventually.
 ## nnix?
 => https://www-cs-faculty.stanford.edu/~knuth/mmix.html from DE Knuth
 ```
-"The original MIX computer ran fine without 
+> The original MIX computer ran fine without 
 an operating system. You could bootstrap it 
 with punched cards or paper tape and do 
 everything yourself. But nowadays such power 
