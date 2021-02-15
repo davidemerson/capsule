@@ -1,0 +1,84 @@
+# White-Wheat Mix Sourdough Bread (Starter Only)
+
+## Ingredients
+### Levain
+* 50g sourdough starter
+* 118g water
+* 94g all-purpose flour
+
+### Dough
+* 120g wheat flour
+* 240g all-purpose flour
+* 295g water
+* 10.00g granulated salt
+* 3.00g granulated citric acid
+
+## Procedure
+### Levain
+* Mix all ingredients for levain in a straight walled vessel at least four times the volume of all the ingredients (a beaker works well)
+* Cover with plastic wrap until levain has tripled in volume, around 5-12hr.
+
+### Dough
+* Sift together all the dry ingredients.
+* Add water and 1C levain (weigh this out, it may not be the whole amount).
+* Stir, then knead a bit until a smooth dough forms, adding flour as necessary to avoid sticking.
+* Let sit covered for four to five hours, folding every hour or so.
+* Form a loaf, place on parchment and on a peel or other flat surface. Let this loaf rest at room temperature for one hour, then refrigerate for 12-24 hours.
+
+### Baking
+* Transfer loaf to the top of an oven or near the wood stove, somewhere around 80F where it can come up to temperature and further rise. Allow loaf to sit for around three hours.
+* Preheat oven to 450F when appropriate.
+* Dust a loaf with flour, slash with a scissor, and transfer to cloche using peel.
+* Bake 20min with the cloche closed.
+* Bake 15min with the cloche lid removed.
+* Cool bread on rack.
+
+
+# Original Sourdough Bread (Starter Only)
+
+## Ingredients
+* 227g sourdough starter
+* 340g lukewarm water
+* 362g + 241g all-purpose flour
+* 14.32g salt
+* 3.19g (granular) citric acid
+
+## Procedure
+* Combine 227g starter, 340g water, and 362g flour in a bowl. Beat vigorously for 60 seconds.
+* Cover, allow bowl to rest at 72F for four hours. Refrigerate overnight, at least more than twelve hours, and up to 20 hours.
+* Add the remaining 241g flour, citric acid, and the salt. Knead well to form a smooth dough.
+* Allow the dough to rise in a covered bowl at 72F. Turn the dough out on a surface hourly and knock back the gas gently, returning it to the bowl. Rise for a total of about five hours.
+* Divide the dough into two loaves (half). When shaping the loaves ensure an appropriate surface tension using a roll method to ensure consistent results.
+* Allow the loaves to rise for between 2 and four hours. Preheat the oven and cloche to 450F when appropriate.
+* Dust a loaf with flour, slash with a scissor, and transfer to cloche using peel.
+* Bake 20min with the cloche closed.
+* Bake 15min with the cloche lid removed.
+* Cool bread on rack.
+
+
+# Sourdough Bread (Commercial Yeast Augmented)
+
+## Ingredients
+* 227g sourdough starter
+* 340g lukewarm water
+* 2tsp instant yeast
+* 14.32g salt
+* 602g all-purpose flour
+
+## Procedure
+* Combine all ingredients.
+* Knead 4min in a stand mixer, until a smooth dough forms (or by hand about 15min).
+* Lightly oil or grease a bowl, transfer dough to bowl.
+* Rest 90 minutes until doubled in size.
+* Divide dough in half. Shape into two loaves. Rest one hour. (Preheat oven to 425F while resting)
+* Dust loaf with flour, slash with a scissor, transfer to cloche, close cloche.
+* Bake 20min with cloche closed.
+* Bake 10min with cloche lid removed (leave lid in oven next to base to keep it warm).
+* Cool bread on a rack.
+
+## Modifications
+* You can add 2T dry rosemary, or more fresh, to make a rosemary sourdough. Add before kneading.
+* You can mix in 2T roasted garlic paste to make a garlic sourdough. Add before kneading.
+* You can just bake the whole thing at once, if you'd like. If you do this, set times at 20min in cloche, 15min with cloche lid removed.
+
+

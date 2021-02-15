@@ -1,0 +1,23 @@
+# French Toast
+
+## Ingredients
+* 0.5t ground nutmeg
+* 0.25t ground allspice
+* 1.0t ground cinnamon
+* 1.0t simple syrup
+* 0.5t vanilla extract
+* 0.125t salt
+* 1.0oz orange juice
+* 2 eggs
+* 0.125c heavy cream
+* four 0.5" slices challah bread (adjust whole recipe according to scale of bread here)
+* maple syrup
+* 4T butter
+
+## Procedure
+* Using an immersion blender, mix nutmeg, allspice, cinnamon, simple syrup, vanilla extract, salt, eggs, and heavy cream until smooth.
+* Place four slices of challah in a 9x9 baking pan
+* Pour the batter mix on top of the challah, ensuring each piece is coated top and bottom.
+* Allow bread slices to sit in the batter mix, covered, for at least 15 minutes.
+* Heat butter in a 15" pan, to a surface temperature of 350-365F.
+* Fry slices in butter, until crisp on both sides. Ensure the temperature of the pan doesn't drop below 350F as you cook.
