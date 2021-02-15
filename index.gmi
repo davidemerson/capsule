@@ -11,7 +11,11 @@
 I am a person, and I do person things.
 
 ## Gemlog
-=> gemlog/2021-02-15.gmi The First 30 Days
+=> gemlog/1.gmi 2021-02-15 The First 30 Days
+
+## Table
+Here's some more content to browse.
+=> //brewed.midnight.pub/table.gmi Table
 
 ## Why Gemini?
 => https://suckless.org/sucks/web/ Because of this.
