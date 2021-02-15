@@ -6,6 +6,7 @@
 | | | | | | | |>  < 
 |_| |_|_| |_|_/_/\_\
 ```
+=> https://www-cs-faculty.stanford.edu/~knuth/mmix.html (+)
 
 ## About
 I am a person and I do person things.
@@ -25,54 +26,13 @@ Here's some more content to browse.
 => //brewed.midnight.pub/table.gmi A Table
 => gemini://gemini.circumlunar.space/ the main Gemini project page
 
-
-
-## Gemini?
+## Why Gemini ?
 => https://suckless.org/sucks/web/ Because content should be the primary concern.
-
 If you want your own setup, I've got some GitHub repos here with containers and configurations you can repurpose:
 => https://github.com/davidemerson/nnix.com-gemini Agate Gemini Server in a container.
 => https://github.com/davidemerson/nnix.com-kineto Kineto Gemini-to-HTTP proxy in a container.
-=> https://github.com/davidemerson/nnix.com-www NGINX container that proxies Kineto to the HTTP edge, does SSL, and a bunch of redirects for me.
+=> https://github.com/davidemerson/nnix.com-www NGINX proxy for Kineto w/ SSL and domain redirects.
 => https://github.com/davidemerson/capsule The static content for this site.
-
 
 ## Contact
 => https://davidemerson.com
-
-## nnix?
-=> https://www-cs-faculty.stanford.edu/~knuth/mmix.html from DE Knuth
-```
-"The original MIX computer ran fine without 
-an operating system. You could bootstrap it 
-with punched cards or paper tape and do 
-everything yourself. But nowadays such power 
-is no longer in the hands of ordinary users. 
-The MMIX hardware, like all other computing 
-machines made today, relies on an operating 
-system to get jobs started in their own 
-address spaces and to provide I/O capabilities.
-
-Whenever anybody has asked if I will be 
-writing a book about operating systems, my 
-reply has always been 'Nix.' Therefore the 
-name of MMIX's operating system, NNIX, should 
-come as no surprise.
-
-From time to time I will necessarily have to 
-refer to things that NNIX does for its users, 
-but I have no intention of building NNIX myself. 
-Life is too short. It would be wonderful if 
-some expert in operating system design became 
-inspired to write a book that explains exactly 
-how to construct a nice, clean NNIX kernel for 
-an MMIX chip. The MMIX fascicle includes a 
-level-50 exercise that asks a highly motivated 
-reader to 'Write a book about operating systems, 
-which includes a complete design of an NNIX 
-kernel for the MMIX architecture.' Other 
-alternatives are also possible; for example, 
-somebody at the Free Software Foundation might 
-decide to come up with an alternative system 
-called GNNIX."
-```
