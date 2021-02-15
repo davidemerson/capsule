@@ -8,23 +8,23 @@
 ```
 
 ## About
-I am a person, and I do person things.
+I am a person and I do person things.
 
 ## Gemlog
 => gemlog/1.gmi 2021-02-15 The First 30 Days
 
-## Table
+## Gemini Links
 Here's some more content to browse.
-=> //brewed.midnight.pub/table.gmi Table
+=> //brewed.midnight.pub/table.gmi A Table
+=> gemini://gemini.circumlunar.space/ the main Gemini project page
+
+
 
 ## Why Gemini?
 => https://suckless.org/sucks/web/ Because of this.
 
 Content over bling. There will be more content here eventually.
 
-## Gemini Links
-=> gemini://gemini.circumlunar.space/ the main project page
-=> https://ondollo.com/mansfield the mansfield client (sorry, I need to find a gemini link for this)
 
 ## Contact
 => https://davidemerson.com

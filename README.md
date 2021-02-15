@@ -8,10 +8,12 @@ Files uploaded here are referenced by the nnix.com gemini server (nnix/gemini:la
 The gemlog folder contains all log entries. Dates should be in ISO 8601 format (YYYY-MM-DD) when linking, as-in this example:
 
 ```
-## Posts
-=> bokashi.gmi  2020-11-20 - Early Bokashi composting experiments
-=> finite-simple-groups.gmi 2020-11-13 - Trying to get to grips with finite simple groups
-=> garden.gmi  2020-11-06 - I started a garden.
+## Gemlog
+=> gemlog/5.gmi 2021-02-16 Early Bokashi composting experiments
+=> gemlog/4.gmi 2021-02-15 The First 30 Days
+=> gemlog/3.gmi 2021-02-14 Trying to get to grips with finite simple groups
+=> gemlog/2.gmi 2021-02-13 - I started another garden.
+=> gemlog/1.gmi 2021-02-12 - I started a garden.
 ```
 
 ## food
