@@ -11,7 +11,7 @@
 I am a person, and I do person things.
 
 ## Gemlog
-Coming soon.
+=> gemlog/2021-02-15.gmi The First 30 Days
 
 ## Why Gemini?
 => https://suckless.org/sucks/web/ Because of this.
