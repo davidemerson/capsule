@@ -34,7 +34,7 @@ If you want your own setup, I've got some GitHub repos here with containers and 
 => https://github.com/davidemerson/nnix.com-kineto Kineto Gemini-to-HTTP proxy in a container.
 => https://github.com/davidemerson/nnix.com-www NGINX proxy for Kineto w/ SSL and domain redirects.
 => https://github.com/davidemerson/capsule The static content for this site.
-### as a Service
+### as-a-Service
 There are many good services which will host your content with minimal effort. Here's a couple:
 => gemini://midnight.pub/ midnight.pub hosted content
 => https://gemlog.blue/ gemlog.blue hosted capsules
