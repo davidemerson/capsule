@@ -20,15 +20,13 @@ I am a person and I do person things.
 => food/drinks Drinks, alcoholic and non-alcoholic
 => food/main Main courses
 
-## Gemini Links
+## Links
 => //brewed.midnight.pub/table.gmi A Table
 => gemini://gemini.circumlunar.space/ the main Gemini project page
-=> gemini://gmi.alterzorg.fr/cuisine/cookies_noisette.gmi How to do cookies in Gemini
-=> gemini://nnix.com/food/desserts_snacks/chocolate_chip_cookies.gmi Another way to do cookies in Gemini
 => gemini://gus.guru/ The GUS Engine
 => gemini://gus.guru/backlinks?nnix.com Backlinks for nnix.com
 
-## Why Gemini ?
+## Gemini ?
 => https://suckless.org/sucks/web/ Because content should be the primary concern.
 ### Build Your Own
 If you want your own setup, I've got some GitHub repos here with containers and configurations you can repurpose:
@@ -40,6 +38,9 @@ If you want your own setup, I've got some GitHub repos here with containers and 
 There are many good services which will host your content with minimal effort. Here's a couple:
 => gemini://midnight.pub/ midnight.pub hosted content
 => https://gemlog.blue/ gemlog.blue hosted capsules
+### Handy Notes & Docs
+=> gemini://gmi.alterzorg.fr/cuisine/cookies_noisette.gmi How to do cookies in Gemini
+=> gemini://nnix.com/food/desserts_snacks/chocolate_chip_cookies.gmi Another way to do cookies in Gemini
 
 ## Contact
 => https://davidemerson.com
