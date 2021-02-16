@@ -25,7 +25,7 @@ I am a person and I do person things.
 => //brewed.midnight.pub/table.gmi A Table
 => gemini://gemini.circumlunar.space/ the main Gemini project page
 => gemini://gmi.alterzorg.fr/cuisine/cookies_noisette.gmi How to do cookies in Gemini
-=> foot/desserts_snacks/chocolate_chip_cookies.gmi Another way to do cookies in Gemini
+=> gemini://nnix.com/food/desserts_snacks/chocolate_chip_cookies.gmi Another way to do cookies in Gemini
 
 ## Why Gemini ?
 => https://suckless.org/sucks/web/ Because content should be the primary concern.
