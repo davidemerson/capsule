@@ -17,7 +17,7 @@ I am a person and I do person things.
 ## Food
 => food/bread_pastry Breads & Pastries
 => food/desserts_snacks Desserts & Snacks
-=> food/dips_spreads, Dips & Spreads
+=> food/dips_spreads Dips & Spreads
 => food/drinks Drinks, alcoholic and non-alcoholic
 => food/main Main courses
 
