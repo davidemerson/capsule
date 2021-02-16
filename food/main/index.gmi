@@ -1,1 +1,11 @@
 # Main Courses
+=> beef_bourguignonne.gmi Beef Bourguignonne
+=> butter_chicken.gmi Butter Chicken
+=> french_toast.gmi French Toast
+=> lentils.gmi Lentils
+=> mushroom_masala.gmi Mushroom Masala
+=> mushroom_risotto.gmi Mushroom Risotto
+=> red_beans_rice.gmi Red Beans & Rice
+=> smashed_hamburgers.gmi Smashed Hamburgers
+=> spanikopita.gmi Spanikopita
+=> steak.gmi Steak
