@@ -1,0 +1,14 @@
+# Drinks
+(Both Alcoholic and Non-Alcoholic)
+
+## Alcohol
+=> sazerac.gmi Sazerac
+=> toronto.gmi Toronto
+=> ramos_gin_fizz.gmi Ramos Gin Fizz
+=> dutch_connection.gmi Dutch Connection
+=> bourbon_milk_punch.gmi Bourbon Milk Punch
+=> vermouth.gmi David's Catalan Vermouth
+
+## No Alcohol
+=> ginger_lemon_elixir.gmi Ginger Lemon Elixir
+=> coffee.gmi Coffee
