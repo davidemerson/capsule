@@ -11,9 +11,6 @@
 ## About
 I am a person and I do person things.
 
-## Gemlog
-=> gemlog/1.gmi 2021-02-15 The First 30 Days
-
 ## Food
 => food/bread_pastry Breads & Pastries
 => food/desserts_snacks Desserts & Snacks
