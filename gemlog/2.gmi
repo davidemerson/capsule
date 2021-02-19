@@ -1,0 +1,19 @@
+# Ephemeral Mail
+
+I'm in the midst of migrating away from Gmail. The technical migration was easy: I moved my MX records in minutes and set up forwarding for the gmail.com address about as quickly. The true adjustment has been search.
+
+Indeed, search is Google's core competency, if you disregard ads, so you'd have to expect that it's the distinguishing feature in their mail product, which is otherwise spartan.
+
+Of course, there's little point in leaving your data in Google after you start using another mail service, especially if you switched services in protest, however abstractly. Practically speaking, an island of archived mail from the past does little good, and adds a login to one's routine.
+
+I have used enough email services to know that all searches which aren't Google are poor. Modestly sophisticated search services like Microsoft's O365, though improving, cannot compete with the superior contextual awareness, suggestions, and relevance scoring of Google's algorithm. Tutanota (what I'm using now), Fastmail, and Proton all have what I would consider rudimentary search capabilities, far less useful than search in O365, and essentially a different technology than the excellent search in Gmail.
+
+This sets me back to 2005-era capabilties, then - the state of my mail pre-Gmail. In 2005, our use of communication technology was still evolving toward the present web-centric paradigm. An email received was searchable on a local client, or perhaps on a webmail client, but only for very basic content such as keywords, header values, and attachment presence. If something important arrived, such as an attachment, or an email with information value beyond the conversation thread itself, you would likely transfer that important content to another app or perhaps a directory structure, imposing your own organizational process on the information.
+
+State of the art search such as Google obviates the need to organize things yourself. If someone emails you something important at Gmail, you archive it, perhaps remembering only generally that it's in your email, and recalling it with a vague query at the very moment of its need.
+
+If someone emailed you something important in 2005, you probably extracted the important bit, applied your organizational process to that important bit, and archived or deleted the email itself. This isn't a difficult adjustment, but it's more deliberate now than it was in 2005. In 2021, very little requires advance organization, and almost everything is fetched just-in-time.
+
+In all, switching from Google reintroduced me to the ephemerality of content in emails, and forced a mindfulness upon my email processing. This is both the most difficult and most rewarding aspect of the transition.
+
+=> gemini://nnix.com/index.gmi Home

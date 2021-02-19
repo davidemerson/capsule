@@ -11,6 +11,7 @@
 I am a person and I do person things.
 
 ## Gemlog
+=> gemlog/2.gmi 2021-02-19 Ephemeral Mail
 => gemlog/1.gmi 2021-02-15 The First 30 Days
 
 ## Food
@@ -26,7 +27,7 @@ I am a person and I do person things.
 => gemini://gus.guru/ The GUS Engine
 => gemini://gus.guru/backlinks?nnix.com Backlinks for nnix.com
 
-## Gemini ?
+## Gemini
 => https://suckless.org/sucks/web/ Because content should be the primary concern.
 ### Build Your Own
 If you want your own setup, I've got some GitHub repos here with containers and configurations you can repurpose:

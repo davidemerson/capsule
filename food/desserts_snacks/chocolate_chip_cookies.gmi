@@ -1,6 +1,7 @@
 # Chocolate Chip Cookies
 
-## Ingredients
+## With Butter
+### Ingredients
 * 225g (2 sticks) unsalted butter
 * 280g all-purpose flour
 * 3g baking soda
@@ -11,7 +12,7 @@
 * 140g dark brown sugar
 * 225g semi-sweet chocolate chips
 
-## Procedure
+### Procedure
 * Brown all the butter in a saucepan, takes about 5 minutes on medium-high heat. Should be golden brown and nutty-smelling, but not burned. Whisk frequently as it browns. Remove from heat and set aside to cool.
 * Whisk together flour, baking soda, and salt in a large bowl.
 * In a stand mixer with whisk attachment, mix sugar, eggs, vanilla extract, beating on medium-high until thick ribbons fall from the whisk when lifted, perhaps 5 minutes.
@@ -22,3 +23,24 @@
 * Transfer dough to an airtight storage container and refrigerate overnight.
 * After overnight refrigeration, cut dough into 16 equal cubes, roll into balls. Freeze these for future use or bake immediately.
 * When ready to bake, oven 325F for about 16 minutes.
+
+## With Coconut Oil
+### Ingredients
+* 160g coconut oil
+* 150g white sugar
+* 170g brown sugar
+* 310g all-purpose flour
+* 200g semi-sweet chocolate chips
+* 2t vanilla extract
+* 2 eggs
+* 0.75t kosher salt
+* 1t baking soda
+
+### Procedure
+* Preheat oven to 375F
+* Liquefy the coconut oil. We don't want it hot, just warm enough to be liquid (100F is fine).
+* Combine liquid coconut oil, vanilla, eggs, white sugar, and brown sugar. Whisk to combine.
+* Add flour, kosher salt, and baking soda. Stir until smooth (or keep mixing in mixer).
+* Add chocolate chips, stir until evenly distributed.
+* Make 3T scoops / balls
+* Bake 375F for 9-12 min. Cool on a wire rack.
