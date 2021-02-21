@@ -1,0 +1,29 @@
+# Tutanota, a Review
+
+## Mail
+The headers are clean, and I mean squeaky clean. (compare against headers from O365 and gmail and fastmail)
+
+
+## Contacts
+The contacts interface is sufficient. It does not feature deduplication or any especially intelligent new-contact logic, though it can draw from your interactions in Mail to create new entries.
+
+Generally, I get the impression that groupware functionality is at odds with their no-compromise approach to encryption. I would have been happy for them to hold the line on offering pure mail functionality, though that, too, has its challenges in a no-compromise model which shuns IMAP/POP fetching.
+
+Essentially, there has to be an integration.
+
+## Calendar
+Where I recognize the limitations of the contacts functionality were caused by a no-compromise approach, I also understand why adding the contacts functionality may have been desirable despite these limitations.
+
+I do not feel the same way about calendaring under these constraints.
+
+Again, groupware will always be at odds with the encryption requirement, there's no doubt about that.
+
+## Integration
+
+
+## Security
+I have nothing bad to say here. Tutanota has made no major compromises, and if you need your communications to be more secure, you should seriously consider using a channel which isn't email, and isn't as attributable. I would consider the security implemented in Tutanota, at least the optionally available security (end to end encryption with a portal for users not on-platform) the highest available in a solution with practical daily use for orginary people.
+
+Best of all, there's no maintenance load on the user. The maintenance of security is among the top reasons it's so difficult. People get lazy, they get tired, their judgment lapses or they compromise because they can't sort out a configuration or a key or a feature. Tutanota is a service delivered with very safe defaults and it makes so few compromises that it would be fairly difficult to run outside the guardrails of good practice.
+
+=> gemini://nnix.com/index.gmi Home
