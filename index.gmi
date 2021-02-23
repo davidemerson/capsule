@@ -11,7 +11,8 @@
 I am a person and I do person things.
 
 ## Gemlog
-=> food/desserts_snacks/cinnamon_rolls.gmi Cinnamon-Cardamom Rolls
+=> food/drinks/sazerac.gmi 2021-02-22 Barrel-Aged Gin Sazerac
+=> food/desserts_snacks/cinnamon_rolls.gmi 2021-02-22 Cinnamon-Cardamom Rolls
 => gemlog/2.gmi 2021-02-19 Ephemeral Mail
 => gemlog/1.gmi 2021-02-15 The First 30 Days
 
