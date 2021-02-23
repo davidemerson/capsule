@@ -18,6 +18,11 @@ I do not feel the same way about calendaring under these constraints.
 
 Again, groupware will always be at odds with the encryption requirement, there's no doubt about that.
 
+## Interface
+There are client applications for Windows/OSX/iOS/Android, and a webmail application. All are substantially similar in their functionality, and all, at this time are compartmentalized from any integration with their hosts. Essentially, what you do in Tutanota stays in Tutanota, which makes their interface the only interface you'll ever experience when interacting with your email.
+
+Thankfully, it's a clean interface, and entirely fit for purpose. There are a few gripes, such as the lack of a true Dark Mode (the current implementation leaves emails in "light mode" and just makes interface elements dark), lack of an archive button in the reading pane, and lack of a next/previous email buttons while reading. Otherwise, no complaints here. If you're accustomed to gmail, you will find Tutanota only slightly less polished. If you're accustomed to Fastmail, Tutanota is at the same level of maturity.
+
 ## Integration
 
 

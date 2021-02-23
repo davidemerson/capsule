@@ -1,0 +1,25 @@
+# Sustainability and Computing
+
+=> https://wiki.xxiivv.com/site/longtermism.html In response to this post from Devine Lu Linvega.
+
+A few weeks ago, I was reading through updates on the xxiivv wiki, a site I highly recommend you visit regardless of your thoughts on the matter at hand.
+
+I've been mulling over the last couple paragraphs of one post since reading it:
+
+> My dream sailboat has no diesel engine, no fuel outboard and no lead acid battery storage, but instead a compressed air engine with its compression stored in diving tanks, a bike crank powered compressor, a hydro generator pump, and a dynamo to charge our low-power electronics. The only crucial electronic systems connected to the house tanks would be the AIS transceiver, the VHF radio, a basic chartplotter and habitat lighting. Our work and entertainment electronics, like our laptops and cameras, would run off solar charging a minimal array of standard batteries.
+
+> Is there a way to create and distribute software and electronics in a way that is environmentally conscious? perhaps not.
+
+One cannot easily know the true impact of one's consumption. Naturally, there's a calculable initial impact - this can be measured to some degree, and should be minimized, but the longer-term net effects of consumption are very difficult to quantify, especially when that consumption is aligned with research & development, or the production of future technologies and processes.
+
+Consider the sailboat, since that's a frequent subject of the wiki in question. This accommodation is in some ways more efficient than other combinations of conveyance and residence. By other measures, its lifespan, diesel consumption, and associated shore infrastructure are wasteful compared to a tent and a bicycle. Intangibly, however, it has inspired the creation of new technologies, and fostered an environment in which the concentration and constraints required for creation are present.
+
+Without Hundred Rabbits' sailboat, despite its cost to our planet, we'd be missing many of their low-impact innovations, including those which replace higher-impact existing technologies. There's little doubt that their works could be produced in a mud shanty insulated by recovered waste plastic and powered by a bicycle generator, but would they?
+
+Consider the computer on which I type. It's a mess of raw materials, from the common to the exceedingly rare, and it cost me very little to purchase the components necessary for its assembly. It runs software which was written by tens of thousands of other people, most using computers more wasteful than mine. The initial impact of this software and hardware purchase is high - perhaps far greater than the market has charged my bank account.
+
+While I cannot claim to use this computer to any end especially distinguished, it is my interface to the world for many hours each day - the interface through which I create, organize, and communicate, and even its relatively heavy footprint is miniscule compared to the carbon it offsets in travel, or compared to the activities-per-watt I'd have been able to accomplish ten years ago, or thirty.
+
+The computer and the sailboat are the products of thousands of years of development through consumption standing on the shoulders of consumption. This consumption, largely represented by energy, might also be represented as energy banked in development such that the future might be realized at lower cost. The long optimization toward a minimalist oceangoing studio-home is expensive but ultimately as noble a pursuit as sustained fusion power generation.
+
+=> gemini://nnix.com/index.gmi Home
