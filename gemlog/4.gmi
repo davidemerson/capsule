@@ -12,7 +12,7 @@ I've been mulling over the last couple paragraphs of one post since reading it:
 
 Superficially, these aspirations (and others like them) are relatable, desirable, and ultimately possible. I believe that their realization is neither direct nor low-impact, however, despite its necessity.
 
-One cannot easily know the true impact of one's consumption. Naturally, there's a calculable initial impact - this can be measured to some degree, and should be minimized, but the longer-term net effects of consumption are very difficult to quantify, especially when that consumption is aligned with research & development, or the production of future technologies and processes.
+One cannot easily know the net impact of one's consumption in advance. Naturally, there's a calculable gross impact - this can be measured to some degree, and should be minimized, but the longer-term effects of consumption are very difficult to quantify, especially when that consumption is aligned with research & development, or the production of future technologies and processes, which may significantly reduce or offset the net consumption.
 
 Consider the sailboat, since that's a frequent subject of the wiki in question. This accommodation is in some ways more efficient than other combinations of conveyance and residence. By other measures, its lifespan, diesel consumption, and associated shore infrastructure are wasteful compared to a tent and a bicycle. Intangibly, however, it has inspired the creation of new technologies, and fostered an environment in which the concentration and constraints required for creation are present.
 
