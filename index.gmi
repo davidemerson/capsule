@@ -11,7 +11,7 @@
 I am a person and I do person things.
 
 ## Gemlog
-=> food/bread_pastry/sourdough_break.gmi 2021-02-23 Roasted Garlic Sourdough Bread
+=> food/bread_pastry/sourdough_bread.gmi 2021-02-23 Roasted Garlic Sourdough Bread
 => gemlog/4.gmi 2021-02-22 Consumption Toward Optimization
 => food/drinks/sazerac.gmi 2021-02-21 Barrel-Aged Gin Sazerac
 => food/desserts_snacks/cinnamon_rolls.gmi 2021-02-21 Cinnamon-Cardamom Rolls
