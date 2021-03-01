@@ -1,0 +1,19 @@
+# Fit the Second: ceci n'est pas une évaluation (du pinephone)
+
+=> https://www.arm.com/products/silicon-ip-cpu/cortex-a/cortex-a53 This, at 1.2GHz, is the processor in my PinePhone.
+
+The PinePhone has 2GB RAM, or 3GB if you wasted even more money than I did.
+
+It's got 16GB eMMC storage internally, also expandable optionally.
+
+The GeekBench for this CPU in the 2GB RAM variant, as I have, is 493 single-core, 1292 multi-core.
+
+As a comparison, a Raspberry Pi 4, a respectable BCM2711 implementation of the A57 gets a GeekBench of around 200 single-core and 650 multi-core.
+
+Also as a comparison, the GeekBench achieved by the A53 PinePhone is roughly equivalent to the benchmark posted by an Intel Xeon L3426 quad-core processor from about 2009. This is not bad at all, especially considering the L3426 consumes 45W, while the A53 consumes, in this configuration, less than a watt!
+
+The comparison isn't perfect, but it's at least a context for my first assertion:
+
+We live in a time of unprecedented hardware availability. Our mass-produced chipsets are objectively fast, very efficient, and very inexpensive. I can buy a phone for $149 today which benchmarks about as well as a single-socket server from 2009, and doesn't melt in my hand. Despite this trend, we have failed to harness that power with meaningfully more-functional software.
+
+=> gemini://nnix.com/index.gmi Home
