@@ -32,18 +32,18 @@ The phone was still slow, and appeared to be getting slower, so I initiated a sh
 
 When the phone came back up, my PIN wouldn't work once more. I tried another hard reset, but this time to no avail.
 
----
+```
 fast forward through a reinstall of Mobian from an SD card, and a second reflash of the cell modem.
----
+```
 
 I'm back in. That bug I mentioned about the PIN shift? It's not just in the installer they send you out of the box, but also in the current Mobian installer image. Watch your PIN inputs during setup!
 
 So yeah, I'm not going to bother with apt update/upgrade again, I want to play with this thing. Here's the skinny in the unpatched default install:
-- Maps load about as slowly as ordering a microfiche via post from the USGS and interpreting it with a loupe.
-- SMS works. MMS doesn't work.
-- A lot of the settings app works, but changing some settings causes the settings app to crash. It's like a game of settings minesweeper.
-- The interface is a bit like Android, if Android were running many times slower than any Android phone from a major manufacturer ever ran, worked 88-93% of the time, sometimes precipitated a reflash of the separate operating system embedded in your phone's cell modem, and ran many times more processes in the background to coordinate its 1.6GB of roly poly bulk.
-- There's a ton of functionality here, some of it works.
+* Maps load about as slowly as ordering a microfiche via post from the USGS and interpreting it with a loupe.
+* SMS works. MMS doesn't work.
+* A lot of the settings app works, but changing some settings causes the settings app to crash. It's like a game of settings minesweeper.
+* The interface is a bit like Android, if Android were running many times slower than any Android phone from a major manufacturer ever ran, worked 88-93% of the time, sometimes precipitated a reflash of the separate operating system embedded in your phone's cell modem, and ran many times more processes in the background to coordinate its 1.6GB of roly poly bulk.
+* There's a ton of functionality here, some of it works.
 
 My list is not a full recounting of the system, and for that I apologize. A full recounting is simply not worth the time to write. I'm going to skip to my conclusion, which consists of the microblog I sent out after I decided to make something of the remainder of my weekend:
 
