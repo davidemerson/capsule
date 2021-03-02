@@ -6,11 +6,11 @@ The PinePhone has 2GB RAM, or 3GB if you wasted even more money than I did.
 
 It's got 16GB eMMC storage internally, also expandable optionally.
 
-The GeekBench for this CPU in the 2GB RAM variant, as I have, is 493 single-core, 1292 multi-core.
+The GeekBench score for this CPU in the 2GB RAM variant, as I have, is 493 single-core, 1292 multi-core.
 
-As a comparison, a Raspberry Pi 4, a respectable BCM2711 implementation of the A57 gets a GeekBench of around 200 single-core and 650 multi-core.
+As a comparison, a Raspberry Pi 4, a respectable BCM2711 implementation of the A72 gets a GeekBench score of around 200 single-core and 650 multi-core.
 
-Also as a comparison, the GeekBench achieved by the A53 PinePhone is roughly equivalent to the benchmark posted by an Intel Xeon L3426 quad-core processor from about 2009. This is not bad at all, especially considering the L3426 consumes 45W, while the A53 consumes, in this configuration, less than a watt!
+Also as a comparison, the GeekBench score achieved by the A53 PinePhone is roughly equivalent to the benchmark posted by an Intel Xeon L3426 quad-core processor from about 2009. This is not bad at all, especially considering the L3426 consumes, while the A53 consumes, in this configuration, less than one watt.
 
 The comparison isn't perfect, but it's at least a context for my first assertion:
 
