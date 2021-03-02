@@ -1,0 +1,5 @@
+# Fit the Third: ceci n'est pas une évaluation (du pinephone)
+
+We live in a time of unprecedented software and hardware availability, and this software and hardware is becoming an end in itself, rather than the experience and functionality they may provide a user.
+
+=> gemini://nnix.com/index.gmi Home
