@@ -48,7 +48,7 @@ So yeah, I'm not going to bother with apt update/upgrade again, I want to play w
 My list is not a full recounting of the system, and for that I apologize. A full recounting is simply not worth the time to write. I'm going to skip to my conclusion, which consists of the microblog I sent out after I decided to make something of the remainder of my weekend:
 
 1/3
-It's official. Mobian on Pinephone is an unpleasant circus. I don't think this is PinePhone's fault, I blame Linux, which, either before of, or in spite of, decades of talent being poured into its ecosystem, remains a rabbit warren inside a dumpster fire.
+It's official. Mobian on Pinephone is an unpleasant circus. I don't think this is PinePhone's fault, I blame Linux, which, either because of, or in spite of, decades of talent being poured into its ecosystem, remains a rabbit warren inside a dumpster fire.
 2/3
 The manifold and petty ways in which mobile linux on PinePhone appears to be broken is not compelling. Someone needs to hack this product back to basics. An attempt to overlay and implement the features of commodity smartphones upon the bloat of GNU/Linux is neither approachable nor maintainable. The hardware is nice, and it's begging for a paradigm-shift minimalist OS, not 1.6GB of GNU/Linux desktop packages stuffed into a pantomime Android costume.
 3/3
