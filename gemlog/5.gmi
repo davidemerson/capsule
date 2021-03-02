@@ -14,7 +14,7 @@ When you turn on the PinePhone for the first time, you're greeted with a setup p
 
 Then one chooses a PIN. On this screen, the touch calibration is offset by almost exactly one key. The careless will input a PIN consisting of the numbers one row above those which they meant to touch. This is an important bulwark against the "$5 wrench problem", since you can't be forced to divulge the PIN you don't actually know yourself.
 
-Setup complete, the phone rebooted, and I worked through some unlock screen stutters to enter my shifted PIN. The homescreen loaded, slowly, and I was off! My SIM card (t-mobile) seemed to work fine with the cell modem, and I joined Wi-Fi without a hitch, though the performance of the UI was at all times somewhat inconsistent.
+Setup complete, the phone rebooted, and I worked through some unlock screen stutters to enter my shifted PIN. The homescreen loaded, slowly, and I was off! My SIM card (t-mobile) seemed to work fine with the cell modem, and I joined Wi-Fi without a hitch, though the performance of the UI was at all times inconsistent.
 
 I opened a terminal and ran 'sudo apt update' as a prelude to patching the phone. Cocktail hour, back on the case Saturday.
 
