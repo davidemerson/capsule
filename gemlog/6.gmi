@@ -10,7 +10,7 @@ The GeekBench score achieved by the A53 PinePhone is roughly equivalent to the b
 
 The comparison isn't perfect, but it's at least a context for the lament:
 
-We live in a time of unprecedented hardware availability. Our mass-produced chipsets are objectively fast, very efficient, and very inexpensive. I can buy a phone for $149 today which benchmarks about as well as a single-socket server from 2012, and doesn't melt in my hand. Despite this trend, we have failed to harness that power with meaningfully more-functional software.
+We live in a time of unprecedented hardware availability. Our mass-produced chipsets are objectively fast, very efficient, and very inexpensive. I can buy a phone for $149 today which benchmarks about as well as a single-socket server from 2009, and doesn't melt in my hand. Despite this trend, we have failed to harness that power with meaningfully more-functional software.
 
 When hardware resources were scarce, our software got creative with every CPU cycle. From the Apollo Guidance Computer to the Nintendo Entertainment System, there wasn't a ton of slack in early systems for waste, and software was accordingly parsimonious to the point of limited functionality. This was no golden era from a user perspective - such austerity limits mass adoption - and I am not bemoaning the progress which brought us out of the 6502 and into the future.
 
