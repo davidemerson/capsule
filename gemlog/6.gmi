@@ -2,18 +2,32 @@
 
 => https://www.arm.com/products/silicon-ip-cpu/cortex-a/cortex-a53 This, at 1.2GHz, is the processor in my PinePhone.
 
-The PinePhone has 2GB RAM, or 3GB if you wasted even more money than I did.
+The PinePhone has 2GB RAM, or 3GB if you wasted even more money than I did. It's got 16GB eMMC storage internally, also expandable optionally at purchase.
 
-It's got 16GB eMMC storage internally, also expandable optionally.
+The GeekBench score for this CPU in the 2GB RAM variant, as I have, is 493 single-core, 1292 multi-core. As a comparison, a Raspberry Pi 4, a respectable BCM2711 implementation of the A72 gets a GeekBench score of around 200 single-core and 650 multi-core.
 
-The GeekBench score for this CPU in the 2GB RAM variant, as I have, is 493 single-core, 1292 multi-core.
-
-As a comparison, a Raspberry Pi 4, a respectable BCM2711 implementation of the A72 gets a GeekBench score of around 200 single-core and 650 multi-core.
-
-Also as a comparison, the GeekBench score achieved by the A53 PinePhone is roughly equivalent to the benchmark posted by an Intel Xeon L3426 quad-core processor from about 2009. This is not bad at all, especially considering the L3426 consumes, while the A53 consumes, in this configuration, less than one watt.
+The GeekBench score achieved by the A53 PinePhone is roughly equivalent to the benchmark posted by an Intel Xeon L3426 quad-core processor from about 2009. This is not bad at all, especially considering the L3426 consumes, while the A53 consumes, in this configuration, less than one watt.
 
 The comparison isn't perfect, but it's at least a context for my first assertion:
 
 We live in a time of unprecedented hardware availability. Our mass-produced chipsets are objectively fast, very efficient, and very inexpensive. I can buy a phone for $149 today which benchmarks about as well as a single-socket server from 2009, and doesn't melt in my hand. Despite this trend, we have failed to harness that power with meaningfully more-functional software.
+
+When hardware resources were scarce, one software got creative with every cycle. From the Apollo Guidance Computer to the Nintendo Entertainment System, there wasn't a ton of slack in early systems for waste, and software was accordingly parsimonious to the point of limited functionality. This was no golden era from a user perspective - such austerity limits mass adoption - and I am not bemoaning the progress which brought us out of the 6502 and into the future.
+
+But like a nation which moves from starvation to pervasive obesity, we've not merely abandoned the care with which we used to harness resources for functional purposes, we've inhibited the functionality a surfeit of resources should provide. The pressures of a limited stack are gone, and, now that the fat has accumulated, 2GB of RAM, that's 32,768 times as much as we had in a 6502, is no longer enough to provide a responsive user interface on 6" screen.
+
+In his excellent presentation "Systems Software Research is Irrelevant", Rob Pike argues that "hardware has changed dramatically while software is stagnant".
+
+=> http://herpolhode.com/rob/utah2000.pdf His slides are worth a read.
+
+While this was true in 2000, and many of the trends to which he alludes were proven out between 2000 and the present day, I think he missed at least the magnitude of the shift which was about to occur, if not its nature.
+
+Pike notes that the 1970s and 1980s were a thriving time in software, and that minutae and microspecialization have hamstrung real progress in the 1990s up until the time at which he gave this talk. I think the trend that he doesn't emphasize strongly enough, probably because it was still-emergent fresh out of the dot-com bust in 2000, is "Take an existing thing and tweak it."
+
+The minor infection he named as one of multiple malaises in the industry circa 2000 found an incubator and a growth medium in the interim. Short-term corporate profit horizons, the penetration of acute profit/loss management methodologies into the deepest depths of even technical organizations, and the practically limitless inexpensive hardware resources available to the modern engineer have all conspired to preclude functional innovation.
+
+Constraint breeds creativity, but our contemporary constraints are all forces of capital - we're no longer bumping up against a technical constraint when, in every degree to which our engineering is free, we hit an economic constraint first. As such, our optimizations and creativity is directed against non-technical constraints, and our solutions are technologically impoverished despite themselves being a veritable confit of technology, cured and cooked with decades of poorly implemented means to various ends, all along for the ride because neither performance nor efficiency nor user experience are the constraints we encounter before the CFO cries out for even higher profit margins to support a ballooning multiple for an impending SPAC acquisition.
+
+My horse is not high: this infection casts a pall on much of my daily work. And the PinePhone? I'm not sure how I can fairly expect them to break free of the same ecosystem we all face. When they went shopping for a hardware architecture, despite a preponderance of implementations, they didn't have much real choice but ARM, and the specs sure do sound fine. When they went shopping for an OS, well, it's probably going to be Linux, abused as it has been for decades by edge-case academic neuroses, dubious or absent strategic oversight, and reuse without meaningful development. The PinePhone at $149 is like a giant fast-food hamburger made by ninety people who've never met or spoken to each other: a patchwork caricature of real food which is improbably inexpensive, but also insufficiently savory.
 
 => gemini://nnix.com/index.gmi Home

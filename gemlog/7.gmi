@@ -2,4 +2,6 @@
 
 We live in a time of unprecedented software availability. Many competent Operating Systems have been written for the cheap, fast, efficient hardware we've got. I can download, for free and under liberal license terms, operating systems ranging from minimalist RTOS distributions such as Zephyr to full desktop environments such as Ubuntu. Despite this trend, we have failed to harness this availability and selection with discretion and design - our software choices are wasteful, ill-fitting, often feature-bloated rather than thoughtfully crafted.
 
+We live in a time of unprecedented software and hardware availability, and this software and hardware is becoming an end in itself, rather than the experience and functionality they may provide a user.
+
 => gemini://nnix.com/index.gmi Home
