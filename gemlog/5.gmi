@@ -54,6 +54,6 @@ The manifold and petty ways in which mobile linux on PinePhone appears to be bro
 3/3
 The experience is summed up by the conclusion of Joyce's "Araby" - "Gazing up into the darkness, I saw myself as a creature driven and derided by vanity" ... should have spent the pennies of my weekend more wisely here.
 
-=> gemlog/6.gmi I continue this lament here.
+=> 6.gmi I continue this lament here.
 
 => gemini://nnix.com/index.gmi Home
