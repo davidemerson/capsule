@@ -22,32 +22,6 @@ To do the kind of work I can't personally fit in a GTD action, I use periods of 
 
 None of these are quite right for me, but all of them approximate the way I work. At present, and for the last 15 years or so, a kitchen timer or a nearby clock serves well for timing intervals, but let's see if that can't be improved. To optimize my own periods of more-intense output, and in the tradition of this subject, I will build my own tool, "fit". It's a timer, sure, but with some logging functions, and the ability to structure or simply record one's work sessions.
 
-## Features
-* Must be able to count up to time work of indefinite duration.
-* Must be able to count down to time work of definite (or bounded) duration, like a Pomodoro. This count down will be limited to 30min (a single) and 60min (a double) intervals.
-* Should be able to categorize work and log time spent by category. Categories need not be extensive. This can be as high-level as GTD Focus Horizons.
-* Though the code will be portable, I'll be using a physical device which has no function other than the "fit" routine. This device will also be called "fit". It should be small, substantial, and good looking.
-
-## fit device
-* solar powered or plug in, to be untethered if necessary.
-* not sure if pi pico (the really small one) or a simple IC.
-* wifi or bt for sync? eh, maybe serial on a tiny interface?
-* eink or lcd screen, to reduce power.
-* robust enclosure, this needs to travel well and be abused.
-* tactility and finish; use should be a satisfying experience.
-* rotary encoder input with press.
-* We're going to need a ten+ digit display for epoch.
-
-## fit application
-### data model
-Each invocation is a fit. Every fit will consist of the following values:
-* focus[fFocus] : personal[ffp], work[ffw], learning[ffl]
-* type[fType] : 60-minute[ft60], 30-minute[ft30], count-up[ftcu]
-* start[fStart] : (epoch at start)
-* end[fEnd] : (epoch at end)
-* survey[fSurvey] : +[fsgood], =[fsok], -[fsbad]
-
-### use
-[press] >> ffp, ffw, ffl >> [press] >> ftcu, ft60, ft30 >> [press] >> (displays epoch from start) >> [press] >> (epoch paused) >> [press] >> (epoch resumed) >> [long press | interval elapsed] >> survey >> log .
+=> gemini://nnix.com/fit/index.gmi I'll keep stuff about fit here, it's a work in progress.
 
 => gemini://nnix.com/index.gmi Home

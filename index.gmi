@@ -34,6 +34,9 @@ I am a person and I do person things.
 => gemini://gus.guru/ The GUS Engine
 => gemini://gus.guru/backlinks?nnix.com Backlinks for nnix.com
 
+## Tools
+=> fit/index.gmi fit
+
 ## Gemini
 => https://suckless.org/sucks/web/ Because content should be the primary concern.
 ### Build Your Own
