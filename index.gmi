@@ -11,8 +11,9 @@
 I am a person and I do person things.
 
 ## Gemlog
-=> gemlog/6.gmi 2021-03-02 Fit the Second: ceci n'est pas une évaluation
-=> gemlog/5.gmi 2021-03-01 Fit the First: ceci n'est pas une évaluation
+=> gemlog/8.gmi 2021-03-04 fit
+=> gemlog/6.gmi 2021-03-02 Part the Second: ceci n'est pas une évaluation
+=> gemlog/5.gmi 2021-03-01 Part the First: ceci n'est pas une évaluation
 => food/bread_pastry/sourdough_bread.gmi 2021-02-23 Roasted Garlic Sourdough Bread
 => gemlog/4.gmi 2021-02-22 Consumption Toward Optimization
 => food/drinks/sazerac.gmi 2021-02-21 Barrel-Aged Gin Sazerac

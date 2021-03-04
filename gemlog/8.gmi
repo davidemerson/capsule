@@ -1,0 +1,53 @@
+# fit
+
+```
+she went walking when the fit took her:
+mood, whim, fancy, impulse, caprice, urge,
+notion, whimsy; desire, wish, inclination, bent.
+```
+
+Personal productivity is the subject of many a blog, essay, and book. The profession is rife with charlatans and dilettantes, but devoid of broad expertise. This dearth of expertise does not imply that the field is without genuine thought leadership. There are competent professionals represented, even among those who are compensated for their work.
+
+The impediment to broad expertise in the matter of personal productivity is indeed its personal nature. There are many tasks for which an objective competence is possible, perhaps documented, and there are even sets of tasks which have a best method or practice established by sustained experimentation and practical experience. Objectivity means little when we shift our gaze to the inner experience of a person.
+
+When we search for the tools which enhance our productivity, we might find the search a lonely one, but it's not without precedent. Literature is abundant on this matter, with an inventory of things that have worked for others available for our consideration.
+
+Years of thought and refinement on this subject have led me to adopt a modified version of David Allen's "Getting Things Done" (GTD) methodology. I found his full process fussy, so my use of it is somewhat more elemental than described in his book. What's nice about his methodology, though, is its portability. I first read his book in 2002, and it was dated by my standards already, with references to memos and inboxes and telephone calls. His handling of "next actions", however, and the concept of externalizing those things which are not presently at-task into a reliable system is timeless, and many elements of his methodology work as well in the modern world as they did when the fax machine was part of our workflow.
+
+GTD handles the action inventory, then. For me, there's no better way to handle small work such as administrative tasks, short activities, and things which have simple inputs and simple outputs. GTD is extensible to longer-form work using the concept of Focus Horizons, which can ensure your actions identified are properly aligned with the things you think you should be doing.
+
+Things fall apart for GTD where they fall apart for Agile, however. A preponderance of captured actions, even if they are properly related to a taxonomy of focus horizons and projects, is insufficient to achieve a complex and substantial outcome. One doesn't get a space program by simply imitating the tasks required for its operation. Large amounts of often open-ended deep work and strategic thought are required to complete complex projects, and a focus on the expedient or contemporary can distract a project away from the accomplishment of a longer-term goal.
+
+To do the kind of work I can't personally fit in a GTD action, I use periods of concentration. This is a common solution, sometimes called "Pomodoro method", but it's much more than merely timing. In the tradition of personal productivity being personal, you can find implementations of such a method all over the web, many of them very good.
+
+None of these are quite right for me, but all of them approximate the way I work. At present, and for the last 15 years or so, a kitchen timer or a nearby clock serves well for timing intervals, but let's see if that can't be improved. To optimize my own periods of more-intense output, and in the tradition of this subject, I will build my own tool, "fit". It's a timer, sure, but with some logging functions, and the ability to structure or simply record one's work sessions.
+
+## Features
+* Must be able to count up to time work of indefinite duration.
+* Must be able to count down to time work of definite (or bounded) duration, like a Pomodoro. This count down will be limited to 30min (a single) and 60min (a double) intervals.
+* Should be able to categorize work and log time spent by category. Categories need not be extensive. This can be as high-level as GTD Focus Horizons.
+* Though the code will be portable, I'll be using a physical device which has no function other than the "fit" routine. This device will also be called "fit". It should be small, substantial, and good looking.
+
+## fit device
+* solar powered or plug in, to be untethered if necessary.
+* not sure if pi pico (the really small one) or a simple IC.
+* wifi or bt for sync? eh, maybe serial on a tiny interface?
+* eink or lcd screen, to reduce power.
+* robust enclosure, this needs to travel well and be abused.
+* tactility and finish; use should be a satisfying experience.
+* rotary encoder input with press.
+* We're going to need a ten+ digit display for epoch.
+
+## fit application
+### data model
+Each invocation is a fit. Every fit will consist of the following values:
+* focus[fFocus] : personal[ffp], work[ffw], learning[ffl]
+* type[fType] : 60-minute[ft60], 30-minute[ft30], count-up[ftcu]
+* start[fStart] : (epoch at start)
+* end[fEnd] : (epoch at end)
+* survey[fSurvey] : +[fsgood], =[fsok], -[fsbad]
+
+### use
+[press] >> ffp, ffw, ffl >> [press] >> ftcu, ft60, ft30 >> [press] >> (displays epoch from start) >> [press] >> (epoch paused) >> [press] >> (epoch resumed) >> [long press | interval elapsed] >> survey >> log .
+
+=> gemini://nnix.com/index.gmi Home

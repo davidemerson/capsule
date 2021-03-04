@@ -1,4 +1,4 @@
-# Fit the Second: ceci n'est pas une évaluation (du pinephone)
+# Part the Second: ceci n'est pas une évaluation (du pinephone)
 
 The PinePhone has 2GB RAM, or 3GB if you wasted even more money than I did. It's got 16GB eMMC storage internally, also expandable optionally at purchase.
 

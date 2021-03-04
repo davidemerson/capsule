@@ -1,4 +1,4 @@
-# Fit the First: ceci n'est pas une évaluation (du pinephone)
+# Part the First: ceci n'est pas une évaluation (du pinephone)
 
 In which I begin to write a review of the PinePhone, but it devolves into a lament regarding the state of technology design.
 
