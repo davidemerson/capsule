@@ -14,13 +14,21 @@
 ```
 # a personal productivity tool
 
+```
+she went walking when the fit took her:
+mood, whim, fancy, impulse, caprice, urge,
+notion, whimsy; desire, wish, inclination, bent.
+```
+
 => gemini://nnix.com/gemlog/8.gmi This is why I'm making fit.
 
+=> https://github.com/davidemerson/fit GitHub
+
 ## Features
-* Must be able to count up to time work of indefinite duration.
-* Must be able to count down to time work of definite (or bounded) duration, like a Pomodoro. This count down will be limited to 30min (a single) and 60min (a double) intervals.
+* [done] Must be able to count up to time work of indefinite duration.
+* [done] Must be able to count down to time work of definite (or bounded) duration, like a Pomodoro. This count down will be limited to 30min (a single) and 60min (a double) intervals.
 * Should be able to categorize work and log time spent by category. Categories need not be extensive. This can be as high-level as GTD Focus Horizons.
-* Though the code will be portable, I'll be using a physical device which has no function other than the "fit" routine. This device will also be called "fit". It should be small, substantial, and good looking.
+* Though the code will be portable, I'll be using a physical device which has no function other than the "fit" routine. This device will also be called "fit". It should be small, substantial, and good looking - something I don't mind carrying and looking at regularly (honestly, this is why the kitchen timer isn't good enough).
 
 ## fit device
 * solar powered or plug in, to be untethered if necessary.
@@ -40,9 +48,11 @@
 Each invocation is a fit. Every fit will consist of the following values:
 * focus[fFocus] : personal[ffp], work[ffw], learning[ffl]
 * type[fType] : 60-minute[ft60], 30-minute[ft30], count-up[ftcu]
-* hash[fHash] : md5(focus+type+fStart)
+* hash[fHash] : md5(fEnd)
+* hash_short[fHash_short] : fHash[0:5] (used for naming only)
 * start[fStart] : (epoch at start)
 * end[fEnd] : (epoch at end)
+* duration[fDuration] : (fEnd-fStart)
 * survey[fSurvey] : +[fsgood], =[fsok], -[fsbad]
 
 ### use
