@@ -1,0 +1,17 @@
+1.  Zero-days are not identified...ever...by leveraging detection-based solutions. What is your strategy for combatting zero-day attacks?
+
+Two-fold: 1. limit the impact of the attack by microsegmentation of the network. Software defined perimeters and zero trust both play a role here, but the more general (non marketing speak) concept is to ensure extremely granular, limited access to resources, with rich telemetry collected around what access does occur, and device claims, or standards, appropriate to the risk profile of each asset to which one has access.
+2. practical statistical analysis. Collect data on your environment. This doesn't have to be sophisticated data - you miss the forest for the trees when you ignore the simple hygiene-related data surrounding processes, communications, and privileges. Collect and analyze that data, and make changes to reduce heterogeneity, and you'll reduce both the likelihood and impact of a zero day significantly.
+
+  2.  How has detection let you down?
+  - it's noisy
+  - it's fragile
+  - it's expensive (because it's noisy and fragile and you're always fixing both those issues to make sense of the data.)
+
+  3.  Does user convenience drive security policy in your organization?
+  Absolutely. I've stopped fighting that battle directly, and I rely instead on connectivity standards. This is greatly helped by the present quarantine situation, which places our users at arms' length from systems, and allows us to establish new remote access first paradigms.
+
+  4.  What are you doing to position your organization away from detection - what replacements are out there?
+  The #1 replacement is your own practical ingenuity, if you have it. That is, use your teams to perform analyis and introspection specific to your environments. Don't buy more shiny tools, use the ones you have to greater effect.
+
+  Failing that, get a contract with a decent MSSP. I don't say this judgementally. Most companies' value creation is not aligned with running a security program. Some simply aren't large enough to build such a capability, even if they'd like to. Whatever the reason, this is a function which benefits from consistent and vigilant process, and simply hiring that out to a third party is absolutely an option.
