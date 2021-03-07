@@ -8,6 +8,7 @@
 => dutch_connection.gmi Dutch Connection
 => bourbon_milk_punch.gmi Bourbon Milk Punch
 => vermouth.gmi David's Catalan Vermouth
+=> smoky_bonfire.gmi Smoky Bonfire
 
 ## No Alcohol
 => ginger_lemon_elixir.gmi Ginger Lemon Elixir
