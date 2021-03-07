@@ -31,18 +31,17 @@ notion, whimsy; desire, wish, inclination, bent.
 * Though the code will be portable, I'll be using a physical device which has no function other than the "fit" routine. This device will also be called "fit". It should be small, substantial, and good looking - something I don't mind carrying and looking at regularly (honestly, this is why the kitchen timer isn't good enough).
 
 ## fit device
-* solar powered or plug in, to be untethered if necessary.
-* not sure if pi pico (the really small one) or a simple IC.
-* wifi or bt for sync? eh, maybe serial on a tiny interface?
-* eink or lcd screen, to reduce power.
+* Battery powered, with a really long life (low consumption) so it's not a hassle to use without power.
+* I wanted to use a pi pico, but they were sold out (well, the tiny 2040 I wanted was sold out), and they don't have wifi just yet. I need wifi for this to be practical at the moment.
+* wifi for sync to a central database.
+* eInk or OLED screen for low power consumption.
 * robust enclosure, this needs to travel well and be abused.
 * tactility and finish; use should be a satisfying experience.
-* rotary encoder input with press.
-* We're going to need a ten+ digit display for epoch.
+* rotary encoder or cherry MX switches for interface.
 
 ## fit application
 * can be invoked as an application in any posix shell "fit -ffp -ft30"
-* graphical representations of time "hourglass burndown"
+* graphical representations of time "progress bar"
 
 ### data model
 Each invocation is a fit, stored in the fDB as a table of "fits". Every fit will consist of the following values:
