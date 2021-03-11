@@ -83,6 +83,7 @@ In my opinion, if you want beautiful "standard" English, read Nabokov's Lolita. 
 => https://www.amazon.com/James-Joyces-Ulysses-Stuart-Gilbert/dp/0394700139 Gilbert's Ulysses (a study), less well organized than Ulysses Annotated, but still valuable insight.
 => pdf/odyssey.pdf The Odyssey
 => pdf/ulysses_order_myth.pdf Ulysses, Order, and Myth (T.S. Eliot)
+=> http://m.joyceproject.com/notes/040025lacidarem.html "La ci darem la mano" in Ulysses
 
 ## Other Resources
 => http://www.riverrun.org.uk/joycetools.html Joyce Tools, tons of maps and tables
