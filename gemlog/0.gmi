@@ -1,0 +1,4 @@
+# Reset
+I had various sites &etc online, but it was unruly. Gemini is cool and simple, I'm declaring site bankrupty and moving to this capsule. Content will be sparse to start, but time should solve this issue.
+
+=> gemini://nnix.com/index.gmi Home
