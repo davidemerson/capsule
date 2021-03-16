@@ -11,6 +11,7 @@
 I am a person and I do person things.
 
 ## Gemlog
+=> fit/index.gmi 2021-03-15 fit works
 => gemlog/9.gmi 2021-03-12 On Exactitude in Science (Borges)
 => ulysses/index.gmi 2021-03-10 Ulysses
 => food/drinks/smoky_bonfire.gmi 2021-03-07 Smoky Bonfire Cocktail
