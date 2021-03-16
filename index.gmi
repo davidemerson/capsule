@@ -11,6 +11,7 @@
 I am a person and I do person things.
 
 ## Gemlog
+=> ulysses/uly-codename.zip Generate code names using words from Ulysses
 => fit/index.gmi 2021-03-15 fit works
 => gemlog/9.gmi 2021-03-12 On Exactitude in Science (Borges)
 => ulysses/index.gmi 2021-03-10 Ulysses

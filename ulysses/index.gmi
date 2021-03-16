@@ -88,6 +88,7 @@ In my opinion, if you want beautiful "standard" English, read Nabokov's Lolita. 
 ## Other Resources
 => http://www.riverrun.org.uk/joycetools.html Joyce Tools, tons of maps and tables
 => http://www.joyceproject.com/ Full-Text Ulysses, with Hypertext Annotations
+=> uly-codename.zip A codename generator using only words from Ulysses
 
 
 
