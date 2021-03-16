@@ -21,6 +21,8 @@ notion, whimsy; desire, wish, inclination, bent.
 ```
 
 => gemini://nnix.com/gemlog/8.gmi This is why I'm making fit.
+=> in-fit.jpg This is what it looks like when you're in a fit.
+=> fit-end.jpg This is what it looks like when you've done a fit.
 
 => https://github.com/davidemerson/fit GitHub
 
@@ -28,7 +30,7 @@ notion, whimsy; desire, wish, inclination, bent.
 * [done] Must be able to count up to time work of indefinite duration.
 * [done] Must be able to count down to time work of definite (or bounded) duration, like a Pomodoro. This count down will be limited to 30min (a single) and 60min (a double) intervals.
 * [done] Should be able to categorize work and log time spent by category. Categories need not be extensive. This can be as high-level as GTD Focus Horizons.
-* Though the code will be portable, I'll be using a physical device which has no function other than the "fit" routine. This device will also be called "fit". It should be small, substantial, and good looking - something I don't mind carrying and looking at regularly (honestly, this is why the kitchen timer isn't good enough).
+* [almost] Though the code will be portable, I'll be using a physical device which has no function other than the "fit" routine. This device will also be called "fit". It should be small, substantial, and good looking - something I don't mind carrying and looking at regularly (honestly, this is why the kitchen timer isn't good enough). [I still need to make a proper case for this thing, but the device works.]
 
 ## application
 Though I plan to use this on the purpose-built device, I will ensure that the application remains useable at least via console, since I have seen some purpose for it there. The reason I use a device is for non-computer fits. In fact, more specifically, it is to encourage fits done away from a computer.
@@ -40,7 +42,7 @@ Though I plan to use this on the purpose-built device, I will ensure that the ap
 * [todo] sync to a cloud database when available so I can do analytics
 * [todo] optionally pull analytics locally
 * [todo] implement pausing a fit
-* [todo] implement stopping a timed fit
+* [done] implement stopping a timed fit
 * [todo] make the fFocus list more easily configurable (tokenized everywhere but a list or set)
 
 ### variables
@@ -61,7 +63,7 @@ Each invocation is a fit, stored in the fDB as a table of "fits". Every fit will
 * [done] selected Pi Zero WH; I wanted to use a pi pico, but they were sold out (well, the tiny 2040 I wanted was sold out), and they don't have wifi just yet. I need wifi for this to be practical at the moment.
 * [done] selected Waveshare e-ink 2.13" V2 for low power consumption
 * [todo] I've got some MX switches, let's get them integrated. Maybe a rotary encoder? idk, I have both.
-* [todo] freaking decent typography, idk futura pt?
+* [done] freaking decent typography, idk futura pt?
 * [todo] battery? I like working away from power.
 * [todo] robust enclosure, this needs to travel well and be abused; tactility and finish- use should be a satisfying experience.
 
