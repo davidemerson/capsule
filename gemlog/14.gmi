@@ -1,0 +1,11 @@
+# Interviewing
+
+Ignore those puzzle questions, and stop trying to stump candidates. The single most important characteristic of an interview series, interviews conducted across multiple candidates for a single position, is consistency. Without a consistent interview process and line of questioning, comparisons between candidates may be invalid.
+
+From a structure perspective, interviews should focus on a comprehensive investigation of an achievement the candidate feels was substantial. Start with:
+
+> “What is the technical accomplishment of which you are most proud, and are willing to discuss in detail?”
+
+The line of questioning should then attempt to ascertain how they view that accomplishment: whether they saw it as a team effort or an individual effort, whether they felt compensated and recognized for it, whether they would be able to repeat it in another environment, or whether the environment in which they accomplished this feat was unique. Keeping to a subject about which candiates are intimately familiar also has the advantage of ensuring they are comfortable, and the confounding factor of candidate nerves does not impact their performance too much.
+
+=> gemini://nnix.com/index.gmi Hom

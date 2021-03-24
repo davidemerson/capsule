@@ -1,0 +1,16 @@
+# Container Security
+
+=> https://enterprisersproject.com/article/2018/2/container-security-fundamentals-5-things-know Kevin Casey wrote a piece on container security.
+
+I had a couple quotes in there, but, naturally, there’s detail behind them, and here’s the detail.
+
+## What are things any IT department must know/do when it comes to container security?
+Technologists must understand that the myriad benefits of containerized services come at the cost of additional design and maintenance overhead to ensure integrity, confidentiality, and availability of the product which is formed by their aggregation. By reusing services and loosely coupling them, your team may accelerate the delivery of a functioning product, but it must also account for the attendant increase in complexity of interactions between components, critical contributors and maintainers of code (many of whom may be third parties), and decreased visibility into the practices, pipelines, and parties delivering the services upon which your product depends.
+
+## What traditional security principles/strategies need to change when you begin packing/deploying applications in containers?
+The shift toward reusable, compartmentalized services and microservices necessitates a re-evaluation of one’s secure design practices. In particular, a successful security program must now monitor numerous loosely-coupled software packages which form a functioning product but which, individually, may contribute vulnerabilities. Rather than a monolithic product with a clearly defined surface area vulnerable to attack, containerization both increases the surface area of your product, and potentially decreases both visibility and your teams’ ability to address discovered vulnerabilities. It’s analogous to taking a sphere of glass, representative of a monolithic product, and shattering it into a mixture of sand and pebbles. The sand and pebbles are more adaptable and reconfigurable in nature, but there are many more of them to manage. This does not imply, however, that containerization is a poor architectural decision. The reuse of components and adoption of services maintained by others can save tremendous development effort and yield a high-quality product, but it requires attention to one’s “service supply chain” which previously might have been a much less prominent consideration in designing, securing and implementing a product.
+
+## What are some of the big/fundamental misunderstandings about container security?
+The biggest misunderstanding is that containers are inherently insecure. If an organization adopts containerization in their designs and changes none of their practices, containers may indeed prove less secure, but this would be a very myopic choice, indeed. Properly automated to ensure documentation in-line with configuration, properly audited to ensure integrity of the software pipeline, and properly designed to ensure defense in depth despite potential failure of the intended service security controls, containerization represents a a powerful and efficient design paradigm.
+
+=> gemini://nnix.com/index.gmi Home

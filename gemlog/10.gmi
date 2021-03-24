@@ -1,0 +1,13 @@
+# Automation
+
+=> https://enterprisersproject.com/article/2018/1/how-make-case-it-automation Kevin Casey wrote a piece on making a case for automation automation.
+
+I had a couple quotes in there, but, naturally, there’s detail behind them, and here’s the detail.
+
+Making the case for IT automation:: The case for automation is one which needs to be driven by a business demand signal, such as revenue or operating expense. No automation endeavor is self-justifying, and no technical feat, generally, should be a means unto itself, unless it’s a core competency of the company. When making a case for automation, I recommend clearly illustrating the incentive to move to an automated process, and allowing iteration toward that goal to introduce and prove the benefits at lower risk. For example, a business which hosts websites on dedicated hosts using largely a largely manual deployment pipeline might realize cost savings by moving to a serverless and CI/CD environment. Rather than expend tremendous resources moving such an organization to an automated development and deployment pipeline at once, practitioners should take advantage of modern infrastructure billing models and set up a CI/CD pipeline to a serverless infrastructure which has almost zero cost without utilization. Projects, teams, and even subsidiaries are then free to evaluate and/or utilize this at incremental cost, realizing savings and benefits, and incentivizing further adoption, but not risking the appearance of a massive upfront investment, nor incurring large fixed costs should migration to the new methodology flounder. Binding the increment of costs to utilization also helps sell automation initiatives to non-technical types, since it reduces the initial investment, and permits clear modeling of alternative scenarios without the bogey of “sunk cost” tarnishing the automation initiative.
+
+Avoiding common mistakes and pitfalls when automating IT processes:: Probably the most common mistake I see today is myopia. Automation has so many benefits, from increasing understanding of systems among staff (you can’t automate what you fundamentally do not understand), aligning documentation with configuration (automation lays bare the details of an environment’s configuration, and becomes a form of documentation itself), and using automation to realize peripheral benefits such as reduced compliance audit complexity, improved security posture, and fewer manual controls and processes to hamper engineering output.
+
+=> https://enterprisersproject.com/article/2018/2/8-it-automation-mistakes-avoid Hey, he published a second piece on a similar topic.
+
+=> gemini://nnix.com/index.gmi Home

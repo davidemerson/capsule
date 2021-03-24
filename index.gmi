@@ -11,6 +11,7 @@
 I am a person and I do person things.
 
 ## Gemlog
+=> gemlog/10.gmi 2021-03-24 Automation
 => food/drinks/margarita.gmi 2021-03-16 Margarita (with mezcal)
 => ulysses/uly-codename.zip 2021-03-16 Generate code names using words from Ulysses
 => fit/index.gmi 2021-03-15 fit works

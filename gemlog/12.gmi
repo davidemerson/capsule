@@ -1,0 +1,18 @@
+# Technology Skills Shortage
+
+## Are the cries of the ‘cybersecurity skills shortage’ overplayed?
+They are not overplayed, but neither do I believe that cries of a shortage in skills are unique to cybersecurity. Information Technology as a field has a vast skills shortage, and cybersecurity is a subset of our field which gets headlines right now. As such, because it is both a desirable field for aspiring technologists, and a newsworthy field for journalists, it’s easy, but also myopic, to conclude that cybersecurity skills are especially short.
+
+## What do security hiring managers need to do to position themselves well right now?
+Hiring managers must place great focus on properly structuring an organization to accommodate the skills and talent available to them. It is intellectually lazy and ultimately deleterious, in an organizational sense, to assume that every individual qualified to work at your company will fit neatly into a defined skills and duties box which rounds out your organization. Especially in security, a manager needs to adjust expectations and structure to market realities, and hire the talent which further rounds out his/her team, rather than the talent which exactly fills a role. The person you need now is not necessarily the person you need one year from now, or three years from now, so make sure your hires have enduring characteristics, such as dedication and a penchant for collaborative problem solving, not merely point-in-time qualities or trendy resume points.
+
+## What are some tricks for filling in current skills gaps within an enterprise?
+Cross-training, especially outside the “security” organization, can mitigate a large number of perceived gaps in enterprise skills. Security is not ever going to be successfully provided by an ivory tower of practitioners: it’s not a pure service. Security is something an organization must weave into its culture - something which all influential individuals, from the network engineers to the devops and automation staff, must hold in high regard as they do their design, implementation, and maintenance work. In making it a cultural touchstone, rather than purely the duty of an independent and somewhat cloistered team, skills gaps can be alleviated by distribution of labor, and your environment will be far more well-equipped to detect and respond to incidents and events in any given area of practice.
+
+## What role does automation play in overcoming cybersecurity staffingshortfalls?
+Even small businesses are collecting information relevant to a functional security program at a rate which far exceeds the processing capability of a practically-sized SOC staff. Automation is critical, but not merely at the visibility, correlation, and monitoring layer. Throughout the environment, ensuring automation is used to create, maintain, and change-control configurations is a boon to your security program. The DevOps and Site Reliability Engineering practices of the last decade have demonstrated that configuration management is something which can be highly automated and managed to great operational benefit, and I am convinced that these benefits are highly relevant to securing technology environments, as well.
+
+## How does the industry needs to change in order to ensure we’ve got the right kind of security experts to fill the jobs of tomorrow?
+The jobs we need security talent to fill tomorrow do not exist today. Education, a culture of continuous improvement, and recruitment practices which emphasize enduring and broadly applicable personality characteristics will help our industry adapt to the next generation of skill requirements, technologies, and threats.
+
+=> gemini://nnix.com/index.gmi Home

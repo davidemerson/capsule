@@ -1,0 +1,11 @@
+# Tech in Small Teams
+
+Without an IT staff, a few aspects of technical strategy elbow their way to the top priority:
+
+1. Pick your battles wisely. There are many technical feats which you, as a small business owner, might be tempted to undertake. Not only will there be a learning curve, however, it’s also likely that some are more directly related to your success than others. The traditional “build vs buy” decision holds far more weight for the small business owner than for the enterprise, and, typically, the scales are loaded in favor of “buy” when you’re short-staffed. Build only what you can deliver at substantial cost savings or very, very quickly, and buy the rest of what you need as services.
+
+2. Bind cost to utilization. Small business owners should take advantage of the shift to utilization-based billing models driven by the “cloud” paradigm. Wherever possible, shun fixed monthly or annual fees, and bootstrap your business on fees related to transactions, revenue, or some other more granular quantum of expense representative of your success. This may not always look like the best deal in the long run, but you can often shift strategy if things take off, and, while you are small, low utilization will result in a low bill.
+
+3. Document everything, but document in-line with your technical work. For the code you write, if you write code, comment it well and commit it to a secure, resilient repository. Do the same with your configuration files, and even commit some “readme” type files to these repositories which describe details you, or someone else, won’t remember/know months or years hence. Being small means a few people are doing all the work, but growing means scattered duties, more transitions of function, and more cross-training. Facilitate that future of growth by documenting and ensuring your work is portable to another individual or team.
+
+=> gemini://nnix.com/index.gmi Hom
