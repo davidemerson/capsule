@@ -10,8 +10,23 @@
 ## About
 I am a person and I do person things.
 
+## Tools
+=> fit/index.gmi fit
+
+## Contact
+=> https://davidemerson.com
+=> https://keybase.io/syzygetic
+
+## Food
+=> food/bread_pastry Breads & Pastries
+=> food/desserts_snacks Desserts & Snacks
+=> food/dips_spreads Dips & Spreads
+=> food/drinks Drinks, alcoholic and non-alcoholic
+=> food/main Main courses
+
 ## Gemlog
-=> => fit/index.gmi 2021-03-30 fit ported to 2040
+=> gemlog/12.gmi 2021-04-01 Technology Skills Shortage
+=> fit/index.gmi 2021-03-30 fit ported to 2040
 => gemlog/11.gmi 2021-03-30 Container Security
 => gemlog/10.gmi 2021-03-24 Automation
 => food/drinks/margarita.gmi 2021-03-16 Margarita (with mezcal)
@@ -31,21 +46,11 @@ I am a person and I do person things.
 => gemlog/1.gmi 2021-02-15 The First 30 Days
 => gemlog/0.gmi 2021-02-15 Reset
 
-## Food
-=> food/bread_pastry Breads & Pastries
-=> food/desserts_snacks Desserts & Snacks
-=> food/dips_spreads Dips & Spreads
-=> food/drinks Drinks, alcoholic and non-alcoholic
-=> food/main Main courses
-
 ## Links
 => //brewed.midnight.pub/table.gmi A Table
 => gemini://gemini.circumlunar.space/ the main Gemini project page
 => gemini://gus.guru/ The GUS Engine
 => gemini://gus.guru/backlinks?nnix.com Backlinks for nnix.com
-
-## Tools
-=> fit/index.gmi fit
 
 ## Gemini
 => https://suckless.org/sucks/web/ Because content should be the primary concern.
@@ -62,7 +67,3 @@ There are many good services which will host your content with minimal effort. H
 ### Handy Notes & Docs
 => gemini://gmi.alterzorg.fr/cuisine/cookies_noisette.gmi How to do cookies in Gemini
 => gemini://nnix.com/food/desserts_snacks/chocolate_chip_cookies.gmi Another way to do cookies in Gemini
-
-## Contact
-=> https://davidemerson.com
-=> https://keybase.io/syzygetic
