@@ -24,6 +24,8 @@ notion, whimsy; desire, wish, inclination, bent.
 => in-fit.jpg This is what it looks like when you're in a fit.
 => fit-end.jpg This is what it looks like when you've done a fit.
 
+(photo note: I have since changed out the hardware, so it looks different. I will post more pictures when the new enclosure is done.)
+
 => https://github.com/davidemerson/fit GitHub
 
 ## main features
@@ -34,23 +36,24 @@ notion, whimsy; desire, wish, inclination, bent.
 
 ## application
 Though I plan to use this on the purpose-built device, I will ensure that the application remains useable at least via console, since I have seen some purpose for it there. The reason I use a device is for non-computer fits. In fact, more specifically, it is to encourage fits done away from a computer.
+* [todo] write the code for use on the cli (fit_cli)
 
 * python3 application
-* sqlite3 database
-* [done] graphical representation of time (progress bar), no actual HHMM time while in a fit
+* csv data file
+* [done] time representation while in a fit, simplistic, not distracting
 * [done] survey at the end of a fit, to measure, well, whatever you want to measure. I use it for "whether or not I stayed on task"
-* [todo] sync to a cloud database when available so I can do analytics
-* [todo] optionally pull analytics locally
-* [todo] implement pausing a fit
+* [todo] write a data file so analytics can be pulled locally.
+* [cancelled] implement pausing a fit (I decided I'd rather only allow myself to cancel a fit, rather than permit interruptions)
 * [done] implement stopping a timed fit
-* [todo] make the fFocus list more easily configurable (tokenized everywhere but a list or set)
+* [done] make the fFocus list more easily configurable (tokenized everywhere but a list or set)
+* [todo] consider making a configuration file from which fit reads
 
 ### variables
-Each invocation is a fit, stored in the fDB as a table of "fits". Every fit will consist of the following values:
-* focus[fFocus] : personal[ffp], work[ffw], learning[ffl]
+Each invocation is a fit, stored in the csv as a table of "fits". Every fit will consist of the following values:
+* focus[fFocus] : personal[ffp], work[ffw], learning[ffl], home, admin
 * type[fType] : 60-minute[ft60], 30-minute[ft30], count-up[ftcu]
-* hash[fHash] : md5(fEnd)
-* hash_short[fHash_short] : fHash[0:5] (used for naming only)
+* hash[fHash] : sha256(fEnd)
+* hash_short[fHash_short] : fHash[0:4] (used for naming only)
 * start[fStart] : (epoch at start)
 * end[fEnd] : (epoch at end)
 * duration[fDuration] : (fEnd-fStart)
@@ -62,9 +65,8 @@ Each invocation is a fit, stored in the fDB as a table of "fits". Every fit will
 ## device
 * [done] selected Pi Zero WH; I wanted to use a pi pico, but they were sold out (well, the tiny 2040 I wanted was sold out), and they don't have wifi just yet. I need wifi for this to be practical at the moment.
 * [done] selected Waveshare e-ink 2.13" V2 for low power consumption
-* [todo] I've got some MX switches, let's get them integrated. Maybe a rotary encoder? idk, I have both.
-* [done] freaking decent typography, idk futura pt?
+* [done] I've got some MX switches, let's get them integrated. Maybe a rotary encoder? idk, I have both. In the end, the rotary encoder was a nightmare and the MX switches were a little too large. Went for a momentary on double toggle.
+* [done] freaking decent typography, idk futura pt? I did this on the Waveshare eink verison, but not on the OLED. I prefer the look of the Waveshare, but the OLED is smaller and much more streamlined in code.
 * [todo] battery? I like working away from power.
 * [todo] robust enclosure, this needs to travel well and be abused; tactility and finish- use should be a satisfying experience.
-
-
+* [todo] implement a reset button, so I don't have to keep unplugging it.
