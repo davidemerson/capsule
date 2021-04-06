@@ -8,4 +8,4 @@ Without an IT staff, a few aspects of technical strategy elbow their way to the 
 
 3. Document everything, but document in-line with your technical work. For the code you write, if you write code, comment it well and commit it to a secure, resilient repository. Do the same with your configuration files, and even commit some “readme” type files to these repositories which describe details you, or someone else, won’t remember/know months or years hence. Being small means a few people are doing all the work, but growing means scattered duties, more transitions of function, and more cross-training. Facilitate that future of growth by documenting and ensuring your work is portable to another individual or team.
 
-=> gemini://nnix.com/index.gmi Hom
+=> gemini://nnix.com/index.gmi Home

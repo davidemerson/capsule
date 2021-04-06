@@ -8,4 +8,4 @@ From a structure perspective, interviews should focus on a comprehensive investi
 
 The line of questioning should then attempt to ascertain how they view that accomplishment: whether they saw it as a team effort or an individual effort, whether they felt compensated and recognized for it, whether they would be able to repeat it in another environment, or whether the environment in which they accomplished this feat was unique. Keeping to a subject about which candiates are intimately familiar also has the advantage of ensuring they are comfortable, and the confounding factor of candidate nerves does not impact their performance too much.
 
-=> gemini://nnix.com/index.gmi Hom
+=> gemini://nnix.com/index.gmi Home
