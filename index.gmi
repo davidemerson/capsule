@@ -25,6 +25,7 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
+=> gemlog/14.gmi 2021-04-07 Interviewing
 => fit/index.gmi 2021-04-06 fit is code-complete
 => gemlog/13.gmi 2021-04-06 Tech in Small Teams
 => gemlog/12.gmi 2021-04-01 Technology Skills Shortage
