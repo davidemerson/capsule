@@ -53,8 +53,7 @@ I am a person and I do person things.
 ## Links
 => //brewed.midnight.pub/table.gmi A Table
 => gemini://gemini.circumlunar.space/ the main Gemini project page
-=> gemini://gus.guru/ The GUS Engine
-=> gemini://gus.guru/backlinks?nnix.com Backlinks for nnix.com
+=> gemini://geminispace.info/backlinks?nnix.com Backlinks for nnix.com
 
 ## Gemini
 => https://suckless.org/sucks/web/ Because content should be the primary concern.
