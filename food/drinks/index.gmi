@@ -2,6 +2,7 @@
 (Both Alcoholic and Non-Alcoholic)
 
 ## Alcohol
+=> gin.gmi DIY Gin!
 => margarita.gmi Margarita (with mezcal)
 => sazerac.gmi Sazerac
 => toronto.gmi Toronto
