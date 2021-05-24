@@ -25,8 +25,8 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
-=> food/drinks/golden_milk_latte.gmi Golden Milk Latte
-=> food/drinks/gin.gmi 2021-03-16 DIY Gin!
+=> food/drinks/golden_milk_latte.gmi 2021-05-24 Golden Milk Latte
+=> food/drinks/gin.gmi 2021-05-17 DIY Gin!
 => gemlog/15.gmi 2021-04-09 Detection & Enterprise
 => gemlog/14.gmi 2021-04-07 Interviewing
 => fit/index.gmi 2021-04-06 fit is code-complete
