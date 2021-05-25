@@ -9,3 +9,5 @@
 
 ## Procedure
 * Combine all ingredients in a cocktail shaker, add ice, shake for 30sec. Strain into a glass filled with ice, sprinkle with nutmeg.
+
+=> gemini://nnix.com/index.gmi Home

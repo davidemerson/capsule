@@ -13,3 +13,5 @@ Mix all ingredients in a saucepan and bring to the boil. Turn off heat, let sit 
 
 ## Notes
 * I reduced original turmeric from 15g to 10g. It was too heavy. Re-evaluate when you make this again and modify receipe as necessary.
+
+=> gemini://nnix.com/index.gmi Home

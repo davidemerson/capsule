@@ -10,3 +10,5 @@
 - Coat rim of glass(es) in salt. Add cracked ice to glass(es)
 - Combine all ingredients in a shaker, stir until cold.
 - Strain drink into glass(es).
+
+=> gemini://nnix.com/index.gmi Home

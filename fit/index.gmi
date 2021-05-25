@@ -70,3 +70,5 @@ Each invocation is a fit, stored in the csv as a table of "fits". Every fit will
 * [todo] battery? I like working away from power.
 * [todo] robust enclosure, this needs to travel well and be abused; tactility and finish- use should be a satisfying experience.
 * [todo] implement a reset button, so I don't have to keep unplugging it.
+
+=> gemini://nnix.com/index.gmi Home

@@ -25,3 +25,5 @@
 * Allow to cook for about 30sec, then remove and place on rack to preserve crust
 * Place cheese between two seared patties.
 * Keep warm in 200F oven if making a bunch of these.
+
+=> gemini://nnix.com/index.gmi Home

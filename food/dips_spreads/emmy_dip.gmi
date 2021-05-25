@@ -8,3 +8,5 @@
 
 ## Procedure
 * Mix everything in a bowl, serve with potato chips.
+
+=> gemini://nnix.com/index.gmi Home

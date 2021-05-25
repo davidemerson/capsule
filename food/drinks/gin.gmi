@@ -16,7 +16,7 @@
 * In the third jar, add all cardamom.
 * Close all jars.
 * Let jars sit seven days or so in a dark place. Agitate once a day.
-* Strain solids from each jar through coffee filter into separate beakers (3).
+* Strain solids from each jar through coffee filter into separate beakers or mason jars (3).
 * Mix your gin according to taste, adding juniper/citrus, cardamom, or coriander.
 
 ## Mix Ideas
@@ -25,3 +25,5 @@
 * 6 parts coriander infusion
 * 6 parts juniper-citrus infusion
 * 1 part cardamom infusion
+
+=> gemini://nnix.com/index.gmi Home

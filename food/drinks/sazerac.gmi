@@ -27,3 +27,5 @@
 * Mix simple syrup, bitters, and gin in a shaker, stir on ice 30s, allow to sit for one minute.
 * Remove glass from freezer, swirl to coat in absinthe and toss out excess, strain drink into glass, absinthe will float from sides to the top.
 * Serve "up" with a twist.
+
+=> gemini://nnix.com/index.gmi Home

@@ -9,3 +9,5 @@
 => smashed_hamburgers.gmi Smashed Hamburgers
 => spanikopita.gmi Spanikopita
 => steak.gmi Steak
+
+=> gemini://nnix.com/index.gmi Home

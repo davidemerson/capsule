@@ -9,3 +9,5 @@
 
 ## Procedure
 * Stir all ingredients over ice, strain into glass, garnish with orange peel.
+
+=> gemini://nnix.com/index.gmi Home

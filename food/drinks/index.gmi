@@ -17,3 +17,5 @@
 => golden_milk_latte.gmi Golden Milk Latte
 => ginger_lemon_elixir.gmi Ginger Lemon Elixir
 => coffee.gmi Coffee
+
+=> gemini://nnix.com/index.gmi Home

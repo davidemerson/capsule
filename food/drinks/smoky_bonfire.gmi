@@ -13,3 +13,5 @@
 * Toast or burn the end of each rosemary sprig and capture smoke in each inverted glass you'll use for the cocktail (2).
 * Add ice to shaker, stir until very cold, 30s.
 * Strain cocktail into smoked glasses, cut burnt tips off rosemary sprigs and garnish with remainder of rosemary.
+
+=> gemini://nnix.com/index.gmi Home

@@ -20,3 +20,5 @@
 * Turn off saute mode.
 * Cook on "Pressure Cook" for 10 minutes.
 * Allow pressure to release naturally for 10 minutes after completion.
+
+=> gemini://nnix.com/index.gmi Home

@@ -16,3 +16,5 @@
 * Flour a work surface and turn out dough. Pat into a 1"-thick rectilinear shape.
 * Cut dough into six or eight biscuits using a knife.
 * Place biscuits on baking sheet, bake 20-23 minutes.
+
+=> gemini://nnix.com/index.gmi Home

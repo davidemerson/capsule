@@ -36,3 +36,5 @@
 * After the meat is very tender and the stew cooked to your liking, adjust seasoning. It probably needs more salt, since salt is best done after the cooking, not before.
 * Allow it to cool, then transfer, in pot, to refrigerator. When it is fully cold, a 0.25in layer of fat will have solidified at the top. Get rid of all this fat, or at least as much as is convenient without destroying the good stuff.
 * Reheat and serve.
+
+=> gemini://nnix.com/index.gmi Home

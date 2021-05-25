@@ -28,3 +28,5 @@
 * Add the "Sauce finishing" ingredients above and stir until incorporated.
 * Remove half the sauce to the refrigerator (or freeze) and use for something else.
 * Serve the other half the sauce over the chicken you removed, with rice, if you want.
+
+=> gemini://nnix.com/index.gmi Home

@@ -19,3 +19,5 @@
 * Spread pecans on parchment paper in a baking sheet, they should be a single layer.
 * Bake pecans 30min at 300F, stirring every 10 minutes to flip.
 * Remove from oven, allow to cool, separate into jars.
+
+=> gemini://nnix.com/index.gmi Home

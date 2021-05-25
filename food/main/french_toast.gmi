@@ -21,3 +21,5 @@
 * Allow bread slices to sit in the batter mix, covered, for at least 15 minutes.
 * Heat butter in a 15" pan, to a surface temperature of 350-365F.
 * Fry slices in butter, until crisp on both sides. Ensure the temperature of the pan doesn't drop below 350F as you cook.
+
+=> gemini://nnix.com/index.gmi Home

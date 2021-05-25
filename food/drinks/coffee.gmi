@@ -22,3 +22,5 @@
 * Combine coffee and water in mason jar, shake to ensure there are no clumps of coffee.
 * Allow to stand at room temperature 24hr.
 * Filter coffee to remove grounds, refrigerate.
+
+=> gemini://nnix.com/index.gmi Home

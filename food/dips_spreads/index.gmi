@@ -1,3 +1,5 @@
 # Dips & Spreads
 => emmy_dip.gmi Emmy's Dip
 => white_dip.gmi White Dip
+
+=> gemini://nnix.com/index.gmi Home

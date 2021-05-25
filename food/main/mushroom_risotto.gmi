@@ -22,3 +22,5 @@
 * Allow pressure release naturally for 10 minutes after cooking is complete.
 * Adjust water content as needed: add hot water if too thick, reduce on saute mode if too thin.
 * Adjust salt & pepper content to taste.
+
+=> gemini://nnix.com/index.gmi Home

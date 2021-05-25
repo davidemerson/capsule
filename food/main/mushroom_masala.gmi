@@ -25,3 +25,5 @@
 * Allow to cook for about an hour, stirring every ten minutes. Mushrooms should be softened and reduced in size.
 
 May be garnished with cilantro.
+
+=> gemini://nnix.com/index.gmi Home

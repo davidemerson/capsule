@@ -10,3 +10,5 @@
 
 ## Procedure
 * Mix all ingredients except soda or tonic water on ice in a highball. Top with soda or tonic water. 
+
+=> gemini://nnix.com/index.gmi Home

@@ -37,3 +37,5 @@
 * Shape dough into squares, 2"x2"x0.5". Slice top of squares to provide expansion fissures.
 * Fry about 5-6minutes, turning occasionally.
 * Remove to cooling rack, glaze.
+
+=> gemini://nnix.com/index.gmi Home

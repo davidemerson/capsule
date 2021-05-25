@@ -19,3 +19,5 @@
 ## Nutritional
 * The full batch contains approximately 2843 kcal.
 * Each bar (1/16th) contains approximately 178 kcal.
+
+=> gemini://nnix.com/index.gmi Home
