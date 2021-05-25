@@ -2,6 +2,7 @@
 (Both Alcoholic and Non-Alcoholic)
 
 ## Alcohol
+=> tax_lawyer.gmi The Tax Lawyer
 => gin.gmi DIY Gin!
 => margarita.gmi Margarita (with mezcal)
 => sazerac.gmi Sazerac

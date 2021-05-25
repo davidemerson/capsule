@@ -25,6 +25,7 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
+=> food/drinks/tax_lawyer.gmi 2021-05-24 The Tax Laywer
 => food/drinks/golden_milk_latte.gmi 2021-05-24 Golden Milk Latte
 => food/drinks/gin.gmi 2021-05-17 DIY Gin!
 => gemlog/15.gmi 2021-04-09 Detection & Enterprise
