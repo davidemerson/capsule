@@ -25,10 +25,10 @@ I record at the standard set for aNONradio.net, which is 192Kbps MP3 at 44.1 Hz 
 
 ### Uploading
 I record a single MP3 for the duration of my show with the filename
-format: yyyymmddhhmm_dj_vole.mp3 and use anonymous FTP to upload
+format: yyyymmddhhmm_djvole.mp3 and use anonymous FTP to upload
 it to ftp://anonradio.net in the pub/incoming directory
 
-I include include a file called yyyymmddhhmm_dj_vole.meta that
+I include include a file called yyyymmddhhmm_djvole.meta that
 has these fields:
 
 hhmmss:text:text:text:
