@@ -23,6 +23,22 @@ I record at the standard set for aNONradio.net, which is 192Kbps MP3 at 44.1 Hz 
 
 => images/17-2.png Here's what that block configuration looks like.
 
+### Uploading
+I record a single MP3 for the duration of my show with the filename
+format: yyyymmddhhmm_dj_vole.mp3 and use anonymous FTP to upload
+it to ftp://anonradio.net in the pub/incoming directory
+
+I include include a file called yyyymmddhhmm_dj_vole.meta that
+has these fields:
+
+hhmmss:text:text:text:
+
+For example:
+
+000005:Belle & Sebastian:The Stars of Track and Field:BBC:
+
+This sends Belle & Sebastian - The Stars of Track and Field - BBC at 5 seconds into the show to all the listening players.
+
 ## How do I listen?
 => https://anonradio.net/listen/ You just go here!
 
