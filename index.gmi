@@ -17,6 +17,9 @@ I am a person and I do person things.
 => https://davidemerson.com
 => https://keybase.io/syzygetic
 
+## aNONradio
+=> radio/djv1.gmi 2021-06-11 DJ Vole's Week-End June 11, 2021
+
 ## Food
 => food/bread_pastry Breads & Pastries
 => food/desserts_snacks Desserts & Snacks
@@ -25,7 +28,6 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
-=> gemlog/18.gmi 2021-06-08 DJ Vole's Week-End June 11, 2021
 => gemlog/17.gmi 2021-06-07 aNONradio Streaming Setup
 => gemlog/16.gmi 2021-06-04 DJ Vole's Week-End
 => food/drinks/tax_lawyer.gmi 2021-05-24 The Tax Laywer
