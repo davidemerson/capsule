@@ -1,29 +1,43 @@
-Hey all, I'm DJ VOLE, and it's the week-end. I do this show because I like to close out my work day Friday with some chill music, and there's little reason not to share that with you all at the same time. Let's get down to business. Grab a drink, and put on the good headphones.
+# DJ Vole's Week-End June 11, 2021
 
-Today we start with The Moody Blues / Dawn is a Feeling.
+## Intro
 
-Dave Rawlings Machine / Method Acting
+Hey all, I'm DJ VOLE, and it's the week-end. I do this show because I like to close out my work day Friday with some chill music, and there's little reason not to share that with you all at the same time.
 
-Mulatu Astatke / Yekermo Sew
+Today we've got some Moody Blues, Dave Rawlings Machine, Mulatu Astatke, The Flaming Lips, Father John Misty, Broken Bells, eevee, Moderator, Belle & Sebastian, Gaudi, Ash Walker, and The Felice Brothers.
 
-The Flaming Lips / The Castle
+Track listings and transcripts are available at nnix.com, that's nancy nancy indigo x-ray .com, hosted on both https and gemini protocols.
 
-Father John Misty / The Night Josh Tillman Came to our Apartment
+Let's get down to business. Grab a drink, and put on the good headphones. Happy Friday!
 
-Broken Bells / Vaporize
+## Track Listing
 
-eevee / Flower Face
+* The Moody Blues / Dawn is a Feeling
 
-Moderator / The Scene of the Crime
+* Dave Rawlings Machine / Method Acting
 
-Belle & Sebastian / The Stars of Track and Field
+* Mulatu Astatke / Yekermo Sew
 
-Gaudi & Mad Professor / Cinematic Dub
+* The Flaming Lips / The Castle
 
-Ash Walker & Yazz Ahmed / Bagger
+* Father John Misty / The Night Josh Tillman Came to our Apartment
 
-eevee / p r e t t y
+* Broken Bells / Vaporize
 
-The Flaming Lips / Mother I've Taken LSD
+* eevee / Flower Face
 
-The Felice Brothers / Wonderful Life
+* Moderator / The Scene of the Crime
+
+* Belle & Sebastian / The Stars of Track and Field
+
+* Gaudi & Mad Professor / Cinematic Dub
+
+* Ash Walker & Yazz Ahmed / Bagger
+
+* eevee / p r e t t y
+
+* The Flaming Lips / Mother I've Taken LSD
+
+* The Felice Brothers / Wonderful Life
+
+=> gemini://nnix.com/index.gmi Home

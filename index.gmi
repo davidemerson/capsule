@@ -25,7 +25,8 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
-=> gemlog/17.gmi 2021-06-08 aNONradio Streaming Setup
+=> gemlog/18.gmi 2021-06-08 DJ Vole's Week-End June 11, 2021
+=> gemlog/17.gmi 2021-06-07 aNONradio Streaming Setup
 => gemlog/16.gmi 2021-06-04 DJ Vole's Week-End
 => food/drinks/tax_lawyer.gmi 2021-05-24 The Tax Laywer
 => food/drinks/golden_milk_latte.gmi 2021-05-24 Golden Milk Latte
