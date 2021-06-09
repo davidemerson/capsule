@@ -14,33 +14,21 @@ Let's get down to business. Grab a drink, and put on the good headphones. Happy 
 
 ## Track Listing
 
-* The Moody Blues / Dawn is a Feeling
-
-* Dave Rawlings Machine / Method Acting
-
-* Mulatu Astatke / Yekermo Sew
-
-* The Flaming Lips / The Castle
-
-* Father John Misty / The Night Josh Tillman Came to our Apartment
-
-* Broken Bells / Vaporize
-
-* eevee / Flower Face
-
-* Moderator / The Scene of the Crime
-
-* Belle & Sebastian / The Stars of Track and Field
-
-* Gaudi & Mad Professor / Cinematic Dub
-
-* Ash Walker & Yazz Ahmed / Bagger
-
-* eevee / p r e t t y
-
-* The Flaming Lips / Mother I've Taken LSD
-
-* The Felice Brothers / Wonderful Life
+000000:Intro:
+000100:The Moody Blues:Dawn is a Feeling:
+000428:Dave Rawlings Machine:Method Acting:
+001447:Mulatu Astatke:Yekermo Sew:
+001900:The Flaming Lips:The Castle:
+002355:Father John Misty:The Night Josh Tillman Came to our Apartment:
+002732:Broken Bells:Vaporize:
+003058:eevee:Flower Face:
+003230:Moderator:The Scene of the Crime:
+003600:Belle & Sebastian:The Stars of Track and Field:
+004038:Gaudi & Mad Professor:Cinematic Dub:
+004347:Ash Walker & Yazz Ahmed:Bagger:
+004710:eevee:p r e t t y:
+005140:The Flaming Lips:Mother I've Taken LSD:
+005530:The Felice Brothers:Wonderful Life:
 
 ## Out
 
