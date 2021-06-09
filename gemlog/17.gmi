@@ -1,0 +1,29 @@
+# aNONradio Streaming Setup
+
+I'm doing a volunteer spot on anonradio.net now Fridays, 21:00-22:00 UTC (17:00-18:00 EST).
+
+This is the setup I'm using.
+
+## Audio Hijack
+I run Audio Hijack on Mac OS X. It's really slick. My recording session consists of capture from both the onboard MacBook Pro microphone and my Tidal client, from which I stream a playlist I curate for each session, whether live or recorded.
+
+=> images/17-3.jpg Here's what the overall session looks like when configured.
+
+Note that you may want to add an output block to this session so you can monitor what you're playing. If you do that, keep feedback in mind. You don't want to have your voice playing through the speakers and being heard by the very same mic. Use headphones or something.
+
+### Live
+When I'm going to livestream a show, I add the Broadcast block, configured for Icecast to the aNONradio servers.
+
+=> images/17-1.jpg Here's what that block configuration looks like.
+
+### Pre-Recorded
+When I'm going to pre-record a show, I add the recording block as the final session element, and I record to an MP3 file for upload to the SDF/aNONradio servers.
+
+I record at the standard set for aNONradio.net, which is 192Kbps MP3 at 44.1 Hz Stereo. This is a custom setting in Audio Hijack.
+
+=> images/17-2.jpg Here's what that block configuration looks like.
+
+## How do I listen?
+=> https://anonradio.net/listen/ You just go here!
+
+=> gemini://nnix.com/index.gmi Home
