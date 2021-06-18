@@ -13,19 +13,19 @@ Let's get down to business. Grab a drink, and put on the good headphones. Happy 
 ## Track Listing
 
 000000:Intro:
-000100:Joyryde:ON FIRE
-000428:Moderator:Unspoken
-001447:OMFO:Sea Cruise
-001900:Cloud Cult:No Hell
-002355:Love:Alone Again Or
-002732:Father John Misty:Trouble
-003058:The Avalanches:Frankie Sinatra
-003230:Stephen Emmer & Lou Reed:Passengers
-003600:Octavio Mesa:La Pelea Con el Diablo
-004038:Admas:Astawesalehu
-004347:Karen O & Danger Mouse:Lux Prima
-004710:Miley Cyrus:Space Bootz
-005140:Sorry Gilberto:Addie Pray
+000036:Joyryde:ON FIRE
+000358:Moderator:Unspoken
+000734:OMFO:Sea Cruise
+001318:Cloud Cult:No Hell
+001838:Love:Alone Again Or
+002240:Father John Misty:Trouble
+002509:The Avalanches:Frankie Sinatra
+002857:Stephen Emmer & Lou Reed:Passengers
+003222:Octavio Mesa:La Pelea Con el Diablo
+003550:Admas:Astawesalehu
+004121:Karen O & Danger Mouse:Lux Prima
+005020:Miley Cyrus:Space Bootz
+005505:Sorry Gilberto:Addie Pray
 
 ## Out
 
