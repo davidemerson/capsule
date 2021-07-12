@@ -1,0 +1,69 @@
+# GoRuck Counter Active Shooter (Pistol) Event
+
+## The Exercises
+(Wear good wraparound eye protection and ear protection when shooting steel, or anything, for that matter. Wear good shoes with closed toes. Long sleeves and pants and, honestly, gloves are all good ideas too.)
+
+### Grouping / Benchmark Standard
+(Load 3x10rd magazines) Mark 15, 10, and 5 meter distances from a letter-paper-sized target. Start at the 15-meter mark, where individual training has 15 seconds to draw, ready, and fire ten shots at the target. Move to the 10-meter mark, where individual training has ten seconds to draw, ready, and fire ten shots at the target. Move to the 5-meter mark, where individual training has five seconds to draw, ready, and fire ten shots at the target.
+
+Scoring is done as follows:
+- Every shot is worth 10 points (300 points total possible)
+- Count every shot inside the paper, multiply by ten.
+- Subtract three points for every shot in the outer quarter of the paper area.
+- Subtract two points for every shot in the second-to-outermost quarter of the paper area.
+- Subtract one point for every shot in the second-to-innermost quarter of the paper area.
+- No deduction for any shot in the innermost quarter of the paper area.
+- Total is a percentage of 300. Example == 26 shots in the paper is 260 points. Three of them in outer quarter is -9 deduction, one of them in second-to-outermost quarter is -2 deduction, and four of them in second-to-innermost quarter is -4 deduction. Overall score is (260-9-2-4)/300 = 81.667%. Anything over 70% is passing.
+
+### Positioning in Crowd (DRY FIRE, BARREL PLUGS IN)
+Elect a person to become the "active shooter". Active Shooter stands still, and the rest of the group (this works well with a large group) has three seconds to find a vantage point from which to get a clear shot off without risk of collateral damage before or after the target (Active Shooter). Once the group has stopped moving, Active Shooter is asked to move to another position, and group is asked to optimize their location again, with three seconds to do so.
+
+### Walking (Live Fire)
+(Load 3x10rd magazines) Begin at 25 meter mark from three steel targets. Draw weapon, begin walking toward targets with weapon at ready but not aimed. When you reach 20 meters, or when someone yells "threat!", aim weapon and begin firing at three steel targets, two rounds per target repeating until empty, while walking slowly continuously. Reload if you need to, but don't fire faster than you can handle while walking, and don't walk closer to steel than 7 meters to avoid splashback of lead fragments.
+
+### Running, then firing (Live Fire)
+(Load 3x10rd magazines) Set up five steel targets. Run, really run, 200-400 meters. Do 25-50 push-ups at the 10-meter line, then stand, draw your weapon, and engage each target with two shots. Repeat the run, push-ups, and engagement a total of three times. You'll get worse with each round, but that's the point. Manage your fatigue and work around tires muscles to get a proper grip on the weapon.
+
+### Resistant Crowd (Live Fire)
+(Load 3x10rd magazines) Arrange eight people in a 2x4 grid, and tell them to hold their ground. The individual training must push their way, the long way, shouting "move!" while protecting weapon and head, through this grid while the grid resists. After pushing through this grid, weapon is drawn, and individual training must place two shots on each of five targets, shooting from a kneeling position. Repeat three times.
+
+### Coming to a stop, then firing (Live Fire)
+(Load 3x10rd magazines) Arrange five steel targets. Starting at the 10 meter line from the targets, turn and sprint uprange 25 meters, then pivot and run downrange 25 meters, back to the 10 meter line. As you approach the 10 meter line at a full sprint, figure out how to stop yourself in under one meter, the last meter before the 10 meter line. Recover, draw your weapon, and fire two shots at each of the five steel targets. You should practice reducing the time you require to come to a stop (from the 11 meter line to the 10 meter line), draw your weapon, and acquire the first target.
+
+## Techniques to Remember
+
+- Your right hand should grip the pistol high against the beavertail, and tightly. Establish this grip before the pistol leaves the holster. Your left hand should cover the plastic not covered by your right hand. Your left hand should also be cocked somewhat downard at the wrist. Be sure that your left thumb is below your right thumb when stacked on the grip.
+
+- Elbows fully extended, slighly bent downward to engage the shoulder muscles, since those are larger and can help stabilize the gun and manage recoil.
+
+- When moving into your stance, lean forward and spread your legs at least shoulder width (a little more is fine) to ensure a stable base. This is more of an aggressive feeling stance than natural, so be sure you really practice getting into this position.
+
+- Don't have too much "blade" to your stance - face your target. This is mostly a body armor consideration, so the weight this advice carries depends on your practical use case, whether you regularly employ body armor, and whether you're comfortable with a squared stance rather than a bladed stance.
+
+- When taking a knee, make sure to spread out the position of your knees to ensure a stable base. This is more of a spread than natural.
+
+- When reloading index to the end of the magazine with your index finger to guide yourself into the magazine well. As you load the magazine, the thumb of the hand you use to load that magazine should be the one you use to disengage the slide lock. This ensures the slide lock is disengaged on a locked magazine, rather than possibly on an incompletely loaded magazine (resulting in an unexpectedly empty chamber under stress).
+
+- In the benchmark exercise, take the time allocated to you, especially at the 15-meter line. 15 seconds is a very long time, and you can probably make most of those shots hit if you take your time. The tendency there is to fire rapidly and miss unnecessarily. The 10-meter line is much harder, since you're more pressed for time, and the 5-meter line is harder still, since you have to make two shots a second to run through the whole magazine, so the 15-meter line is lowest stress, and you should take advantage of that.
+
+- When moving, remember to take fewer shots with more care at distance, and increase your rate of fire as you decrease distance to the target. There's no sense in firing at the same rate the whole time as distance closes, since you're going to miss more anyway if you're further away. Adjust your rate of fire to accommodate the attention needed for a hit at different distances.
+
+- When protecting your gun, just use your forearm, or your elbow. Don't hold it with a hand or anything, the arm is enough.
+
+- Always work with your gun held up, in front of your face, pointing in a safe direction. Don't work with it at your waist, always up in your "workspace" right in front of your face.
+
+- When done with an exercise, clear your gun. Remove magazine, store in your pocket/belt/whatever, rack back slide vigorously once, then rack back slide and lock it back. Inspect chamber to confirm there is no round loaded, allow slide to return to battery. Point gun in a safe direction, aim (with a sight picture!) and pull trigger. Return to holster.
+
+## Gear
+
+- I did not feel any disadvantage to using iron sights. This is not to say a red dot is nonsensical, but under the conditions of these exercises, iron sights are all one needs. You're hardly looking at the sights here, really - this isn't a pinpoint accuracy game. As long as you can hold rounds roughly on-target, that's enough, and in a fast string of 10 rounds after you've run 200m, sights aren't what's going to be in your way. I will continue to use iron sights, especially since I don't shoot much, and my purpose in even owning a handgun is backwoods protection. When I do practice like this, I am not good enough to be blaming my sights.
+
+- I needed a three-magazine belt holder for this. I had a one-magazine belt holder. This is fine for backpacking, where I never expect to reload, practically. For a whole day of drills, though, reloads are common and pulling a magazine from a pocket is awkward. Blade-Tech, the company which made my single holder, doesn't make a triple, so if I did this again, I would get a double and put the single next to it on-belt, that'd be fine.
+
+- Practice using whatever holster you plan to use in your non-drill gun activity. Practice drawing from that holster, keeping gun controlled and close to your body, then extending it out toward the target when ready to shoot.
+
+- Double plug. I wore electronic protection cranked up high over 32dB NRR earplugs, and this was enough to allow me to hear speech, but dampen the shots. The electronic protection alone wasn't enough for comfort with so many people firing simultaneously. If you're doing this alone or in a group of two or three, you might be fine with electronic-only on pistols.
+
+- The sun, it is brutal. Wear tons of sunblock, and reapply now and then. A floppy hat would be nice, but it's hard to deal with the hearing protection around that, so a thin UV hoodie is probably better. If you do this exercise, you'll be in the sun basically all day, and it can get intense.
+
+- Let's sum up the gear section with a guiding principle - in all pursuits, stop buying shit. Procure what you need to participate, sure, but then take time to refine your skills on what you're got. Get good enough with what you've got to form an educated opinion about the ways in which your gear is holding you back. Modify as appropriate, incrementally, from there. I can't believe how much gear and fancy mods some of the folks at this GoRuck event showed up wielding. They needed none of it. Jewelry is fine, but it won't help you get good at fundamentals.
