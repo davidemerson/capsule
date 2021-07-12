@@ -32,6 +32,8 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
+=> gemlog/19.gmi 2021-07-12 Possession is Burden
+=> gemlog/18.gmi 2021-07-12 GoRuck Counter Active Shooter Event Notes
 => gemlog/17.gmi 2021-06-07 aNONradio Streaming Setup
 => gemlog/16.gmi 2021-06-04 DJ Vole's Week-End
 => food/drinks/tax_lawyer.gmi 2021-05-24 The Tax Laywer
