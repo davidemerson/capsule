@@ -9,5 +9,6 @@
 => smashed_hamburgers.gmi Smashed Hamburgers
 => spanikopita.gmi Spanikopita
 => steak.gmi Steak
+=> bearnaise_hollandaise.gmi Sauces Bearnaise & Hollandaise
 
 => gemini://nnix.com/index.gmi Home
