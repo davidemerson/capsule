@@ -32,7 +32,7 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
-=> gemlog/food/main/bearnaise_hollandaise.gmi 2021-07-13 Sauces Bearnaise & Hollandaise
+=> food/main/bearnaise_hollandaise.gmi 2021-07-13 Sauces Bearnaise & Hollandaise
 => gemlog/19.gmi 2021-07-12 Possession is Burden
 => gemlog/18.gmi 2021-07-12 GoRuck Counter Active Shooter Event Notes
 => gemlog/17.gmi 2021-06-07 aNONradio Streaming Setup
