@@ -11,6 +11,7 @@
 I am a person and I do person things.
 
 ## Tools
+=> org/index.gmi org
 => fit/index.gmi fit
 
 ## Contact

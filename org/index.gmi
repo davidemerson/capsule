@@ -1,0 +1,42 @@
+# org
+
+Here's how I organize stuff, from tasks to folders and files, to projects.
+
+## File & Folder Organization
+
+=> https://johnnydecimal.com/ I have implemented a system inspired by Johnny Decimal.
+
+### Projects (folders)
+I have a full-time job, a side-gig or two, and, naturally, a personal life. As such, I've implemented projects as the first layer of my taxonomy.
+
+000 - [Reserved for Management]
+001 - Emerson
+500 - Consulting, Company Management
+501 to 899 - Consulting, per-customer
+900 - [Reserved]
+901 to 999 - Full-time Employment, 
+
+### Areas (folders)
+Areas are the second layer of my taxonomy. There are never more than ten areas per project.
+
+001.00 to 001.09 - [Reserved for Management]
+001.10 to 001.19 - Finance
+001.20 to 001.29 - Residence
+001.30 to 001.39 - 
+001.40 to 001.49
+
+
+### Categories (folders)
+Categories are the third layer of my taxonomy. There are never more than ten categories per area.
+
+001.10 to 001.19 - Finance
+	001.10.10 - Financial Plan
+	001.10.11 - Tax Returns
+001.20 to 001.29 - Residence
+	001.20.
+
+
+## Photos & Music
+Photos & Music (generally referred to as media) are somewhat exempt from this, since I've found no better way to store them than by-date.
+
+## Tasks

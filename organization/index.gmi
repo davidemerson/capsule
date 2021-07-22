@@ -1,8 +1,0 @@
-# File & Folder Organization
-
-=> https://johnnydecimal.com/ I have implemented a system inspired by Johnny Decimal.
-
-## 
-
-## Photos & Music
-Photos & Music (generally referred to as media) are somewhat exempt from this, since I've found no better way to store them than by-date.
