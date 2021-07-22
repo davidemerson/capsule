@@ -35,6 +35,18 @@ Categories are the third layer of my taxonomy. There are never more than ten cat
 001.20 to 001.29 - Residence
 	001.20.
 
+Dewey Decimal
+000 – Computer science, information and general works
+100 – Philosophy and psychology
+200 – Religion
+300 – Social sciences
+400 – Language
+500 – Pure Science
+600 – Technology
+700 – Arts and recreation
+800 – Literature
+900 – History and geography
+
 
 ## Photos & Music
 Photos & Music (generally referred to as media) are somewhat exempt from this, since I've found no better way to store them than by-date.
