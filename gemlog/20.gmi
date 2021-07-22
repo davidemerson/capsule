@@ -1,0 +1,12 @@
+# Dock Bouncing Behavior OS X
+
+This is definitely a required config for any new OS X setup. Bouncing dock icons are really awful.
+
+To stop the madness:
+```
+$ defaults write com.apple.dock no-bouncing -bool TRUE
+$ killall Dock
+```
+
+
+=> gemini://nnix.com/index.gmi Home
