@@ -38,6 +38,7 @@ Categories are the third layer of my taxonomy. There are never more than ten cat
 ### Reading
 I shorten the Dewey Deciman Categories by one place, since I don't need anything more granular than the main high-level categories. "100", Philosophy & Psychology, becomes "10" and 400, "Language", becomes "40".
 
+00 – Computer science, information and general works
 10 – Philosophy and psychology
 20 – Religion
 30 – Social sciences
