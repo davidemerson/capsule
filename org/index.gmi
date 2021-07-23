@@ -35,17 +35,18 @@ Categories are the third layer of my taxonomy. There are never more than ten cat
 001.20 to 001.29 - Residence
 	001.20.
 
-Dewey Decimal
-000 – Computer science, information and general works
-100 – Philosophy and psychology
-200 – Religion
-300 – Social sciences
-400 – Language
-500 – Pure Science
-600 – Technology
-700 – Arts and recreation
-800 – Literature
-900 – History and geography
+### Reading
+I shorten the Dewey Deciman Categories by one place, since I don't need anything more granular than the main high-level categories. "100", Philosophy & Psychology, becomes "10" and 400, "Language", becomes "40".
+
+10 – Philosophy and psychology
+20 – Religion
+30 – Social sciences
+40 – Language
+50 – Pure Science
+60 – Technology
+70 – Arts and recreation
+80 – Literature
+90 – History and geography
 
 
 ## Photos & Music
