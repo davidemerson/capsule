@@ -1,0 +1,35 @@
+# Old Entries
+
+=> gemlog/19.gmi 2021-07-12 Possession is Burden
+=> gemlog/18.gmi 2021-07-12 GoRuck Counter Active Shooter Event Notes
+=> gemlog/17.gmi 2021-06-07 aNONradio Streaming Setup
+=> gemlog/16.gmi 2021-06-04 DJ Vole's Week-End
+=> food/drinks/tax_lawyer.gmi 2021-05-24 The Tax Laywer
+=> food/drinks/golden_milk_latte.gmi 2021-05-24 Golden Milk Latte
+=> food/drinks/gin.gmi 2021-05-17 DIY Gin!
+=> gemlog/15.gmi 2021-04-09 Detection & Enterprise
+=> gemlog/14.gmi 2021-04-07 Interviewing
+=> fit/index.gmi 2021-04-06 fit is code-complete
+=> gemlog/13.gmi 2021-04-06 Tech in Small Teams
+=> gemlog/12.gmi 2021-04-01 Technology Skills Shortage
+=> fit/index.gmi 2021-03-30 fit ported to 2040
+=> gemlog/11.gmi 2021-03-30 Container Security
+=> gemlog/10.gmi 2021-03-24 Automation
+=> food/drinks/margarita.gmi 2021-03-16 Margarita (with mezcal)
+=> ulysses/uly-codename.zip 2021-03-16 Generate code names using words from Ulysses
+=> fit/index.gmi 2021-03-15 fit works
+=> gemlog/9.gmi 2021-03-12 On Exactitude in Science (Borges)
+=> ulysses/index.gmi 2021-03-10 Ulysses
+=> food/drinks/smoky_bonfire.gmi 2021-03-07 Smoky Bonfire Cocktail
+=> gemlog/8.gmi 2021-03-04 fit
+=> gemlog/6.gmi 2021-03-02 Part the Second: ceci n'est pas une évaluation
+=> gemlog/5.gmi 2021-03-01 Part the First: ceci n'est pas une évaluation
+=> food/bread_pastry/sourdough_bread.gmi 2021-02-23 Roasted Garlic Sourdough Bread
+=> gemlog/4.gmi 2021-02-22 Consumption Toward Optimization
+=> food/drinks/sazerac.gmi 2021-02-21 Barrel-Aged Gin Sazerac
+=> food/desserts_snacks/cinnamon_rolls.gmi 2021-02-21 Cinnamon-Cardamom Rolls
+=> gemlog/2.gmi 2021-02-19 Ephemeral Mail
+=> gemlog/1.gmi 2021-02-15 The First 30 Days
+=> gemlog/0.gmi 2021-02-15 Reset
+
+=> gemini://nnix.com/index.gmi Home
