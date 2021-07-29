@@ -19,7 +19,8 @@ I am a person and I do person things.
 => https://keybase.io/syzygetic
 
 ## aNONradio
-=> radio/djv7.gmi 2021-07-16 DJ Vole's Week-End July 23, 2021
+=> radio/djv8.gmi 2021-07-29 DJ Vole's Week-End July 30, 2021
+=> radio/djv7.gmi 2021-07-23 DJ Vole's Week-End July 23, 2021
 => radio/old.gmi Old Stuff
 
 ## Food
