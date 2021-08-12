@@ -1,0 +1,60 @@
+# POK3R Remapping & MacOS
+
+Here's how I remap my keyboard to work in MacOS. It was only necessary to write this because I switched from using primarily Linux / BSD / Windows to MacOS recently, and the modifiers on MacOS are different, significantly.
+
+1. Clear all layers using FN+R. You'll have to do this once per layer. I do this because I can't honestly remember all the modifications I've made to the keyboard, but I know what's important to me, so I want to start from a known configuration.
+
+2. Move to layer 2, or whichever layer you want to program. You can't program default.
+
+3. Map "COMMAND" (called "WIN" in POK3R manual) to Caps Lock.
+
+4. Map "OPTION" (called "ALT" in POK3R manual) to what used to be "WIN".
+
+5. Map "FN+U" to "HOME" ("FN+H" by default).
+
+6. Map "FN+O" to "END" ("FN+N" by default).
+
+7. Map FN to the key immediately left of spacebar. This is done by toggling dipswitch 4 ON, then pressing the default FN, then pressing the key immediately left of spacebar. Toggle dipswitch 4 OFF when done.
+
+Finally, it's worth downloading "karabiner-elements" to remap the Home and End default behavior. Once you have that installed, save this to ~/.config/karabiner/assets/complex_modifications/home_end.json and enable it in "complex modifications" within karabiner-elements:
+
+```
+{
+  "title": "Fix Home and End keys",
+  "rules": [
+    {
+      "description": "Fix Home and End keys",
+      "manipulators": [
+        {
+            "type": "basic",
+            "from": {
+                "key_code": "end"
+            },
+            "to": [
+                {
+                    "key_code": "right_arrow",
+                    "modifiers": [
+                        "left_command"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "basic",
+            "from": {
+                "key_code": "home"
+            },
+            "to": [
+                {
+                    "key_code": "left_arrow",
+                    "modifiers": [
+                        "left_command"
+                    ]
+                }
+            ]
+        }
+      ]
+    }
+  ]
+}
+```

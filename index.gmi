@@ -32,6 +32,7 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
+=> gemlog/21.gmi 2021-08-12 Remapping POK3R for OS X
 => gemlog/20.gmi 2021-07-22 No-Bounce Dock Icons OS X
 => food/main/bearnaise_hollandaise.gmi 2021-07-13 Sauces Bearnaise & Hollandaise
 => old_gemlog.gmi Old Stuff
