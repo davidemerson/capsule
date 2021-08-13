@@ -1,10 +1,10 @@
 # Older Shows
 
-=> radio/djv6.gmi 2021-07-16 DJ Vole's Week-End July 16, 2021
-=> radio/djv5.gmi 2021-07-09 DJ Vole's Week-End July 9, 2021
-=> radio/djv4.gmi 2021-07-01 DJ Vole's Week-End July 2, 2021
-=> radio/djv3.gmi 2021-06-25 DJ Vole's Week-End June 25, 2021
-=> radio/djv2.gmi 2021-06-18 DJ Vole's Week-End June 18, 2021
-=> radio/djv1.gmi 2021-06-11 DJ Vole's Week-End June 11, 2021
+=> radio/156.07.gmi 2021-07-16 DJ Vole's Week-End July 16, 2021
+=> radio/156.06.gmi 2021-07-09 DJ Vole's Week-End July 9, 2021
+=> radio/156.05.gmi 2021-07-01 DJ Vole's Week-End July 2, 2021
+=> radio/156.04.gmi 2021-06-25 DJ Vole's Week-End June 25, 2021
+=> radio/156.03.gmi 2021-06-18 DJ Vole's Week-End June 18, 2021
+=> radio/156.02.gmi 2021-06-11 DJ Vole's Week-End June 11, 2021
 
 => gemini://nnix.com/index.gmi Home
