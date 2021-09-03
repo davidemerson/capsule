@@ -2,6 +2,6 @@
 
 => https://anonradio.net/listen/ Listen Here!
 
-=> djv2.gmi This week is a replay of the June 18, 2021 show here.
+=> 156.03.gmi This week is a replay of the June 18, 2021 show here.
 
 => gemini://nnix.com/index.gmi Home
