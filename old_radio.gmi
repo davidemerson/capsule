@@ -1,5 +1,10 @@
 # Older Shows
 
+=> radio/156.12.gmi 2021-08-20 DJ Vole's Week-End August 20, 2021
+=> radio/156.11.gmi 2021-08-13 DJ Vole's Week-End August 13, 2021
+=> radio/156.10.gmi 2021-08-06 DJ Vole's Week-End August 6, 2021
+=> radio/156.09.gmi 2021-07-29 DJ Vole's Week-End July 30, 2021
+=> radio/156.08.gmi 2021-07-23 DJ Vole's Week-End July 23, 2021
 => radio/156.07.gmi 2021-07-16 DJ Vole's Week-End July 16, 2021
 => radio/156.06.gmi 2021-07-09 DJ Vole's Week-End July 9, 2021
 => radio/156.05.gmi 2021-07-01 DJ Vole's Week-End July 2, 2021
