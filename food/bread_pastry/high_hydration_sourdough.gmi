@@ -24,3 +24,5 @@ Note: this recipe makes two loaves of bread, and requires capacity for two cloch
 * When ready to bake, place both pots in a cold oven and turn the oven on to 500F. When the oven reaches 500F, begin your baking timer and reduce the oven temperature to 450F.
 * At 20 minutes indicated on your baking timer, remove the lids from the pots.
 * At 25 minutes indicated on your baking timer, sample the interior temperature of one of the loaves using a K-type thermocouple probe, such as a Thermapen. The interior temperature of a baked loaf should be greater than or equal to 210F. Remove the loaves from the oven when they reach this temperature.
+
+=> gemini://nnix.com/index.gmi Home
