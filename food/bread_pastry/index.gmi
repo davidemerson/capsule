@@ -1,6 +1,7 @@
 # Breads & Pastries
 => sour_cream_doughnuts.gmi Sour Cream Doughnuts
 => sourdough_biscuits.gmi Sourdough Biscuits
-=> sourdough_bread.gmi Sourdough Bread
+=> sourdough_bread.gmi Denser Sourdough Bread
+=> high_hydration_sourdough.gmi 75% Hydration Sourdough (The Best One)
 
 => gemini://nnix.com/index.gmi Home
