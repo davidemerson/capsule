@@ -58,4 +58,6 @@ The first of the traditional pair is settled, and I'll build a second once I hav
 
 => https://github.com/davidemerson/keyboard_layouts My keyboard layouts and firmware files are kept up to date here, if you're curious.
 
+=> images/22-1.png This is what the setup looks like.
+
 => gemini://nnix.com/index.gmi Home
