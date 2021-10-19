@@ -1,0 +1,61 @@
+# Iris & Ploopy Nano
+
+I'm not actually a keyboard junkie, I don't have a pile of them around the house or anything, and I can't relate to the obsessives on r/mechanicalkeyboards who appear to be spending whole life savings on input devices. I'm picky, though, to be sure, and I do get a new pair of keyboards every five years or so, one for home and one for work, then proceed to run them into the ground.
+
+As such, there's a cyclical research activity every five years which finds me revisiting what's on the market, and deciding what to type with for the next five years.
+
+In this cycle, a few trends which weren't sufficiently developed caught my eye:
+* The proliferation of switches which aren't Cherry MX or merely a clone of the Cherry MX line.
+* The popularity of ortholinear keyboards, and specifically their acceptance by keycap manufacturers, such that they are no longer extremely expensive to build out.
+* The maturation of keyboard firmware packages such as QMK.
+
+## Switches
+My three previous generations of keyboard used Cherry MX Blues. These are a tactile clicky switch, highly reliable, cheap, and common in manufactured keyboards. As I began my search, faced with the flooded market of switch brands and types, I consulted a friend, one of the aforementioned keyboard junkies, who knows my preference for click and tactility. He steered me right on the very first recommendation: Kailh Box Jade.
+
+The Kailh Box Jade makes the Cherry MX seem light, wobbly, quiet, and gritty. There's no way in which I prefer Cherry MX Blue switches to Kailh Box Jades. They were a clear choice.
+
+## Board Design
+Ortholinear boards intrigued me five years ago, but I ended up going with a traditional 60% staggered qwerty Pok3r pair due to the newness of ortholinear, and the poor keycap support.
+
+Today, however, there are plenty of keycap vendors willing to sell high quality caps in 1U form on all rows, with all manner of legends. Ortholinear is no longer an inconvenience beyond the relearning of a layout, so it had to be put into the running for this cycle.
+
+I purchased and built a Drop Preonic to test the layout. The lessons / results:
+
+* It was hard to adjust to the all-1U configuration, but I did eventually get there. Now it's hard to switch back to traditional staggered-row keyboards.
+* The 5x12 1U layout is plenty of keys for me, coming from a 60%. More than enough, actually, but the layout needs some compromise. In particular, the location of hyphen key required some reconsideration. I use hyphen and underscore a ton, and there's no natural way to put it in a traditional location on a 5x12 ortholinear. I've finally settled on putting it under my left thumb.
+* Once I got used to ortholinear, I noticed how little my hands moved compared to staggered-row. This has been proven empirically by others, but it's perceptible, not merely academic. My hands don't move that much anymore when typing.
+* (related to above) Ortholinear is unforgiving. I am a fairly formal typist, so this probably wasn't as big a deal for me as for some, but whatever quirks you have in your style, whether it's reaching for a key with the wrong finger, or typing slightly off posture, ortholinear will punish them. Once I corrected a few such habits, I was back to a reasonable pace.
+* (also related to above) Because ortholinear is so unforgiving, it makes you a better touch typist. I wasn't looking at the keyboard much before, mostly for symbols and rarely-used keys, but I never look at it now. Some of this is probably the enforcement of posture and physical relationship to keyboard, both of which are somewhat enforced by the ortholinear layout.
+
+In the end, I decided embrace the ortholinear layout. I wasn't sold on the Preonic, though. It's really small, despite having plenty of keys, and since ortholinear enforces good typing style, it somehow felt more cramped than a staggered row keyboard, with little benefit, since my hands were no longer able to cross over (such as hitting the "t" with my right index finger on occasion).
+
+As a second test keyboard, I built an Iris v5, a split staggered-column ortholinear. Almost immediately, I felt it was easier to type on, with almost no learning curve coming from the Preonic, on which I had become proficient, if not comfortable. The Iris has a couple fewer keys, but still plenty. This would become my keyboard.
+
+## Pointer/Cursor Device
+The trackpoint is an amazing pointing device, and I wish every keyboard had one. Alas, everything with a trackpoint is an exercise in compromises of another kind, and I knew it wasn't realistic to expect an ortholinear split pcb kit with trackpoint support.
+
+Before this keyboard replacement cycle, I was a standard mouse user, either right handed or left, didn't much matter. However, with the selection of a split nominally 5x12 ortholinear board, I found myself with a couple extra 1U keys in the thumb clusters, and couldn't help but think that they might be good for mouse buttons. As I was considering my options for a pointing device to go with the on-keyboard mouse buttons, I found the Ploopy Nano.
+
+The Ploopy Nano is a simple high-resolution pointing device which uses a 38mm snooker ball as a trackball. It's 3D printed, required a little (simple) assembly, and needs no special drivers, as a trackpoint might. It even runs QMK, the same firmware as my chosen keyboard.
+
+Indeed, after some testing, I can't find a better alternative. Ploopy Nano lives to the left of my split keyboard, and my right hand controls the mouseclicks with the thumb cluster. My mousing is now extremely precise, and my hands remain closer to the keys at all time, reducing travel between pointing device and keyboard home row. It isn't a trackpoint with regards to efficiency, but it is a more luxurious experience, and requires no drivers or recalibration or pcb support.
+
+Things I do miss, but not enough to regret my choice:
+* Scrolling. There's no way in QMK at the moment to implement scrolling with a modifier key, since the Ploopy Nano is connected to its own USB interface. There's a fork of QMK out there which implements exactly this feature, and it sounds great, but I haven't tried it because I'm crunched for time right now. This is something I will explore further in the future, or else I'll wait for it to be supported in mainline QMK.
+* Weight. The Ploopy Nano needs to be heavier. No worries, I've ordered a 38mm stainless steel ball bearing which should weigh things down a little more, and I'm sure that'll fix it.
+
+Otherwise, that's all, I love this pointing device.
+
+## Conclusion
+The first of the traditional pair is settled, and I'll build a second once I have finalized my configuration. Here's what I'll be typing on for the next five years:
+
+* Iris v5/v6 (I built a v5 in testing, and will get a v6 for the second of the pair)
+* Stainless steel top and bottom plates
+* Acrylic tenting layer with M6 carriage bolts at all four corners to provide tenting angles
+* Kailh Box Jade switches all around
+* Ploopy Nano
+* 38mm stainless steel ball bearing for trackball replacement
+
+=> https://github.com/davidemerson/keyboard_layouts My keyboard layouts and firmware files are kept up to date here, if you're curious.
+
+=> gemini://nnix.com/index.gmi Home

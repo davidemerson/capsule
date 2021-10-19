@@ -58,3 +58,5 @@ Finally, it's worth downloading "karabiner-elements" to remap the Home and End d
   ]
 }
 ```
+
+=> gemini://nnix.com/index.gmi Home
