@@ -34,6 +34,7 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
+=> food/bread_pastry/acorn_flour.gmi 2021-10-19 Acorn Flour
 => /gemlog/22.gmi 2021-10-19 Iris & Ploopy Nano
 => /food/bread_pastry/high_hydration_sourdough.gmi 2021-09-22 75% Hydration Sourdough, The Best One
 => gemlog/21.gmi 2021-08-12 Remapping POK3R for OS X
