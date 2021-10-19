@@ -4,7 +4,7 @@ I'm not actually a keyboard junkie, I don't have a pile of them around the house
 
 As such, there's a cyclical research activity every five years which finds me revisiting what's on the market, and deciding what to type with for the next five years.
 
-In this cycle, a few trends which weren't sufficiently developed caught my eye:
+In this cycle, a few trends novel five years ago have become common:
 * The proliferation of switches which aren't Cherry MX or merely a clone of the Cherry MX line.
 * The popularity of ortholinear keyboards, and specifically their acceptance by keycap manufacturers, such that they are no longer extremely expensive to build out.
 * The maturation of keyboard firmware packages such as QMK.
