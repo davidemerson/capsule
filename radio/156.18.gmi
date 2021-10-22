@@ -7,6 +7,23 @@ Playlists for this show are available at n n i x dot com, that’s november nove
 
 ## Track Listing
 000000:Intro
-000012:
+000012:Hiway Poesy Painted Desert to Albuquerque:Allen Ginsburg, The Handsome Family
+000531:Certainty:Big Thief
+000836:Hundreds of Sparrows:Sparklehorse
+001104:This Is My Land!:Dulcis Diabolica
+001444:Little Swing:AronChupa, Little Sis Nora
+001729:NYC Baby:Karen O
+002051:Photograph:Heartless Bastards
+002413:Animal:Lump, Laura Marling
+003042:Go2Bed:eevee
+003205:Slide:Frankie Cosmos
+003307:Across The Universe:The Beatles
+003648:hana:eevee
+003819:Blush:prnz
+004133:Handle With Care:She/Beast
+004406:Fisher Island Sound:Beirut
+004651:3 O'Clock Things:AJR
+005043:Quicksand:Hello Shark
+005418:Capital Crimes:Andrew Bird
 
 => gemini://nnix.com/index.gmi Home
