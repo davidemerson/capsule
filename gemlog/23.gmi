@@ -1,0 +1,16 @@
+# A Month of OpenBSD
+
+## The Premise
+Let's see if I can really just use OpenBSD for a month. We're going to start small, because it might not work out so hot. But really - for work, for personal purposes, everything... one month, OpenBSD only.
+
+I've used OpenBSD before, I'm no stranger to the platform. In fact, I would put OpenBSD in third place among the open-source systems with which I'm familiar, the others being Debian (extremely familiar) and CentOS (very familiar). Prior to this test, I used MacOS on a daily basis.
+
+## The Setup
+Intel NUC, monitor, keyboard, mouse, wired ethernet connection.
+
+## The Configuration
+- Downloaded v7.1 media, wrote it to usb.
+- Did the standard install, GPT whole disk autopartition.
+- Swapped out hostname at /etc/myname.
+- Made an .xsession (xsetroot -solid black / exec fvwm)
+- 
