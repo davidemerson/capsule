@@ -13,4 +13,22 @@ Intel NUC, monitor, keyboard, mouse, wired ethernet connection.
 - Did the standard install, GPT whole disk autopartition.
 - Swapped out hostname at /etc/myname.
 - Made an .xsession (xsetroot -solid black / exec fvwm)
-- 
+- Had to change from cdn.openbsd to another mirror because of some strange TLS error in pkg_add, but no big deal.
+- Installed git, nano.
+- Cloned my dotfiles repo.
+- Installed salt to deploy my dotfiles.
+- Made a doas.conf at /etc/doas.conf so I can masquerade as root (permit nopass [myuser])
+- Run my salt highstate.
+- Whoops, I can't log in anymore, everything is broken.
+
+Ok, let's try this again. Maybe we'll forego salt, since I know that was a pretty Debian-centric dotfiles setup.
+
+- Did the standard install, GPT whole disk autopartition, this time using https rather than local disk sets.
+- Wow, the autoinstall of firmware alone is worth running install via http rather than from disk.
+- Installed git, curl, nano, i3
+- Swapped out hostname at /etc/myname.
+- Made an .xsession (xsetroot -solid black / exec i3)
+- Commented out that annoying xconsole in /etc/X11/xenodm/Xsetup_0
+- Manually installed my i3 config and modified it to work in OpenBSD (removed some linux specific stuff).
+- installed i3lock because, of course
+- moved my terminal to st. we'll see if this lasts. I need to get a decent color theme, http://st.suckless.org/patches/solarized/
