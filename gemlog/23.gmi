@@ -31,4 +31,4 @@ Ok, let's try this again. Maybe we'll forego salt, since I know that was a prett
 - Commented out that annoying xconsole in /etc/X11/xenodm/Xsetup_0
 - Manually installed my i3 config and modified it to work in OpenBSD (removed some linux specific stuff).
 - installed i3lock because, of course
-- moved my terminal to st. we'll see if this lasts. I need to get a decent color theme, http://st.suckless.org/patches/solarized/
+- moved my terminal to st. we'll see if this lasts. I need to get a decent color theme, http://st.suckless.org/patches/solarized/ 
