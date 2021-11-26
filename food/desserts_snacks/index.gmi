@@ -1,4 +1,5 @@
 # Desserts & Snacks
+=> acorn_shortbread.gmi Acorn Shortbread
 => candied_pecans.gmi Candied Pecans
 => chocolate_chip_cookies.gmi Chocolate Chip Cookies
 => coconut_power_bars.gmi Coconut Power Bars

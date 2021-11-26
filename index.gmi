@@ -19,6 +19,7 @@ I am a person and I do person things.
 => https://keybase.io/syzygetic
 
 ## aNONradio
+=> radio/156.20.gmi 2021-11-26 DJ Vole's Week-End November 26, 2021
 => radio/156.19.gmi 2021-11-12 DJ Vole's Week-End November 12, 2021
 => radio/156.18.gmi 2021-10-22 DJ Vole's Week-End October 22, 2021
 => radio/156.17.gmi 2021-10-07 DJ Vole's Week-End October 7, 2021
@@ -32,6 +33,7 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
+=> food/desserts_snacks/acorn_shortbread.gmi 2021-11-26 Acorn Shortbread
 => food/bread_pastry/acorn_flour.gmi 2021-10-19 Acorn Flour
 => /gemlog/22.gmi 2021-10-19 Iris & Ploopy Nano
 => /food/bread_pastry/high_hydration_sourdough.gmi 2021-09-22 75% Hydration Sourdough, The Best One
