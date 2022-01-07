@@ -34,6 +34,7 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
+=> /gemlog/23.gmi 2022-01-07 F. retusa Bonsai
 => food/desserts_snacks/acorn_shortbread.gmi 2021-11-26 Acorn Shortbread
 => food/bread_pastry/acorn_flour.gmi 2021-10-19 Acorn Flour
 => /gemlog/22.gmi 2021-10-19 Iris & Ploopy Nano
