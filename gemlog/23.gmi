@@ -1,34 +1,41 @@
-# A Month of OpenBSD
+# Ficus Retusa (bonsai)
 
-## The Premise
-Let's see if I can really just use OpenBSD for a month. We're going to start small, because it might not work out so hot. But really - for work, for personal purposes, everything... one month, OpenBSD only.
+I've started growing F. retusa as a bonsai, so my notes are getting consolidated here to be sure I remember key care instructions.
 
-I've used OpenBSD before, I'm no stranger to the platform. In fact, I would put OpenBSD in third place among the open-source systems with which I'm familiar, the others being Debian (extremely familiar) and CentOS (very familiar). Prior to this test, I used MacOS on a daily basis.
+F. retusa is more closely related to a rubber plant than to the fig tree with edible fruit. The tree weeps a latex sap when cut which repels insects. It is native to Southeast Asia.
 
-## The Setup
-Intel NUC, monitor, keyboard, mouse, wired ethernet connection.
+F. retusa produces aerial roots, which can be encouraged as an aesthetic characteristic of the bonsai. I have placed a rock in the same pot as my F. retusa such that I can prominently display these roots, if they form.
 
-## The Configuration
-- Downloaded v7.1 media, wrote it to usb.
-- Did the standard install, GPT whole disk autopartition.
-- Swapped out hostname at /etc/myname.
-- Made an .xsession (xsetroot -solid black / exec fvwm)
-- Had to change from cdn.openbsd to another mirror because of some strange TLS error in pkg_add, but no big deal.
-- Installed git, nano.
-- Cloned my dotfiles repo.
-- Installed salt to deploy my dotfiles.
-- Made a doas.conf at /etc/doas.conf so I can masquerade as root (permit nopass [myuser])
-- Run my salt highstate.
-- Whoops, I can't log in anymore, everything is broken.
+## Cutting / Pruning
 
-Ok, let's try this again. Maybe we'll forego salt, since I know that was a pretty Debian-centric dotfiles setup.
+When cutting F. retusa, application of a red hot blade, such as a flat screwdriver, is necessary to avoid excessive sap weeping.
 
-- Did the standard install, GPT whole disk autopartition, this time using https rather than local disk sets.
-- Wow, the autoinstall of firmware alone is worth running install via http rather than from disk.
-- Installed git, curl, nano, i3
-- Swapped out hostname at /etc/myname.
-- Made an .xsession (xsetroot -solid black / exec i3)
-- Commented out that annoying xconsole in /etc/X11/xenodm/Xsetup_0
-- Manually installed my i3 config and modified it to work in OpenBSD (removed some linux specific stuff).
-- installed i3lock because, of course
-- moved my terminal to st. we'll see if this lasts. I need to get a decent color theme, http://st.suckless.org/patches/solarized/ 
+Pruning should occur in the winter, when the plant is encouraged to be dormant.
+
+Upper branches should be the shortest, and lower branches should be the longest. A tree should never have two branches coming from the same part of the trunk, nor opposite branches, or two branches in a row.
+
+Prune branches so they are in a pleasing alternating-on-trunk arrangement. I prune F. retusa so the branches begin in the top 1/3rd of its height, to emphasize a bare trunk.
+
+## Wiring
+
+A wire may be used to shape the trunk or branches of F. retusa, but it should be checked regularly, as it can damage the bark of the tree by constriction.
+
+## Environmental Preferences
+
+I grow F. retusa indoors. It requires a temperature range of 60F to 100F, and a partly sunny (windowsill is enough) light level. F. retusa should receive light around 10 hours per day.
+
+If using artificial light, F. retusa should be placed about 1m from the light source.
+
+## Repotting
+
+F. retusa should be repotted every two years with a mixture of 60% organic content and 40% grid / inorganic content. The soil should drain quickly and fully dry between waterings.
+
+## Water & Food
+
+F. retusa requires watering every week. Between April and September, every other week of watering is done using a liquid fertilizer solution, "Uncle Bill's Bonsai Brew" from New England Bonsai Gardens. This fertilizer concentrate is mixed one Tablespoon per gallon of water, and that water is used to water F. retusa as normal.
+
+Between October and March, F. retusa receives plain filtered water weekly.
+
+In all watering seasons, the soil should fully dry before watering again.
+
+=> gemini://nnix.com/index.gmi Home
