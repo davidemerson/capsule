@@ -1,4 +1,5 @@
 # Dips & Spreads
+=> ghost_pepper_sauce.gmi Ghost Pepper Sauce
 => emmy_dip.gmi Emmy's Dip
 => white_dip.gmi White Dip
 
