@@ -1,0 +1,26 @@
+# DJ Vole's Week-End February 11, 2022
+
+=> https://anonradio.net/listen/ Listen Here!
+
+## Intro
+Playlists for this show are available at n n i x dot com, that’s november november india x-ray dot com, on both Gemini and HTTPS protocols.
+
+## Track Listing
+000000:Intro
+000012:Progress:El Michels Affair
+000352:You Give Death A Bad Name:Sufjan Stevens, Angelo De Augustine
+000757:Strange Boy:El Michels Affair, The Shacks
+001152:Oh Such A Spring:Fontaines D.C.
+001356:If Not Now, Then When?:King Gizzard & The Lizard Wizard
+001757:Wake Up:Kormac, Bajka
+002132:Artifices:Chapelier Fou
+002510:Wont Stop:Urbs, Cutex
+003037:Liberty Bell:DARKSIDE
+003436:August:Intelligency
+003731:Attrape-reve:Polo & Pan
+004118:El Mirador:Calexico
+004502:Que Sera:Wax Tailor
+004744:Elephant Gun:Beirut
+005323:Frontier Psychiatrist:The Avalanches
+
+=> gemini://nnix.com/index.gmi Home
