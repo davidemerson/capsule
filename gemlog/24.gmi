@@ -1,5 +1,34 @@
 # Tutanota
 
+## TL;DR
+Tutanota is an email service for the paranoid and the persecuted.
 
+## Selection
+In February 2021, decided to move away from gmail for mail services. Tutanota was inspiring because they're a small company with a focused mission. I didn't want to run feature-heavy groupware in my home (O365), and the one category in which Tutanota promised to be feature-rich is an important one, security. I figured I'd give it a try.
+
+## Initial Experience
+Initially, I appreciated the simplicity of the experience. Tutanota was just mail. They released a calendar a few weeks after I bought a subscription, but it was a joke, really not functional al all, since it integrates with nothing but Tutanota, and heck, I wanted mail, not groupware!
+
+Yeah, there's a search bar too, but it barely works. One needs to index the full inbox (or as much as the algorithm can manage before timeout or exhaustion) and only then will a query work, and only in a rudimentary sense. This isn't Google, that's for sure! Oh, and the index you create in order to be able to search is per-client, of course, since the messages are encrypted end to end.
+
+The mail headers Tutanota sends are lovely. They're so minimalistic, so compact and clean. There's nothing superfluous or misconfigured in them. In a nerdy way, this was almost worth the price of admission tolerance - to know that your mail was sent with a competent looking header.
+
+## Longer Term
+As the months wore on, I got better working without search. I saved important documents (attachments) to my filesystem, which is fairly organized, so this was fine. I printed important emails to PDF and saved those to my filesystem too.
+
+Search was a thorn in my shoe, though, and I kept rebuilding indexes to find content I knew existed, but didn't know would be important at the time it was sent. Basically, modern life relies heavily on email, and one can't prioritize every message at the time of receipt. When the cost of retroactively valuing a message is high, inconvenience follows, and I spent many a minute scrolling through weeks and weeks of messages to find the one I knew was there but couldn't structure a search query for.
+
+This is the problem Google solved for us.
+
+Also longer term, performance became worse, I suspect in proportion to new features, or maybe to new subscribers. Tutanota performance was never good, certainly not as good as any mail provider I've had historically. Mail from Tutanota is encrypted right to your client, then decrypted at your client and rendered in an app. This means it's not really standards-based, and it is necessarily synchronous between clients. Every time you open the app, whether on your desktop or on the web, or in iOS/Android, you have to wait for the client to render the inbox, redownloading all metadata. If you don't have a data connection at that time, you're out of luck, and not just for new mail, but for previously-downloaded mail too.
+
+This performance attribute, some of which is simply the nature of heavy encryption, and some of which I believe is a small team contending with a growing user base, feature requests, and bug fixes in the context of a heavily secured product, evolved from tolerable to bothersome for me as it became compounded by the occasional availability issue on the Tutanota side- outages which would have gone unnoticed at an asynchronous email provider, but were glaringly obvious to the Tutanota user trying to refresh their mail client.
+
+Reddit is full of folks complaining in r/tutanota about Tutanota's refusal to adopt IMAP / POP. It's absolutely true that adopting either of these technologies, or both, would resolve the performance issues. It's also true that these complainers are missing the point. Adopting IMAP / POP, as the standards are currently defined, would completely eliminate most of the incremental security benefits of Tutanota over, say, Fastmail or Proton Mail.
+
+## Conclusion
+In February 2022, I moved from Tutanota to Fastmail. I'm a long time customer of Fastmail for business purposes, and I'm not really the target market for Tutanota. The benefits of such absolute security simply aren't worth the tradeoffs on a daily basis for someone who isn't a controversial journalist, or a dissident, or a criminal.
+
+So Tutanota isn't for me, but I'm glad it exists, and I wish them success. If you are willing to trade performance, availability, and convenience (especially search recall) for confidentiality, there's a product out there for you, backed by a responsive and focused team.
 
 => gemini://nnix.com/index.gmi Home
