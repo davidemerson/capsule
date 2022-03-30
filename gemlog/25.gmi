@@ -1,0 +1,36 @@
+# SwissMicros DM15L
+
+1. I'm glad I bought this, it's a fine calculator. I would recommend others looking for a 15C today buy this instead of buying something old or something insanely expensive (like the 15C LEs you see out there).
+
+2. The keyboard needs some work. My current 12C daily at home, a 25th anniversary LE model, is just leaps and bounds better feeling and more reliable when working by touch alone.
+
+I am a long time 12C user, and for scientific calculators, I've always used something larger, like a TI89 or a computer itself (honestly mostly the computer).
+
+I have always found the large screen super powerful graphing calculators a bit awkward compared to a computer. Once you exceed the capabilities of, say, an HP42 or a 15C, you really might want to simply move to a computer, since the functionality is far greater (at least more open ended), and you can transition complex calculations into programs seamlessly using modern languages. I know plenty of people disagree, but for me, calculators are essential up to the power of about a 15C (or 12C if you're only doing business work), and then it's a quick break for a laptop or a server instead.
+
+Anyway, so I got a DM15L (Serial 21020) because I've always wished I had a 15C for non business calculations, and, let's be honest, a Voyager is way classier than a TI89 for scientific work that isn't graphing or heavy programming (see above about computers and this being 2022).
+
+My calculator is always on my desk, always ready for a fast computation, doesn't require knowing whatever key command the on-screen calc might be in today's OS du jour (I switch up a lot). My calculator is also far more tactile for fast entry of lists of numbers without looking.
+
+So far, the things I love about the DM15:
+* The fonts. I love the squarish font, particularly, it's so much more visible and stylish than the multisegment display as is traditional. The fonts alone are nearly worth the price difference between, say, a current production 12C, which is better built, and a current DM12L, which would have these fonts.
+* The caseback. Metal is what the HP ones should have been, given their generally high build quality.
+* The legends and printing on the overlay & keycaps. Top notch, clearer even than the HP original on my 12C.
+* All functions I have tested work as expected. This is a powerful and intuitive calculator... an emulation of the original, of course, so no surprise there, but there's no doubt that the thing works.
+* The slipcase. It's just simple, and nice, and works!
+* The price. I actually think the price is fair for a low production device which can't possibly have an enormous audience.
+
+The things I don't love about the DM15:
+* The case front. Mating plastic to the metal accurately had to be hard, and it creates a two-color two-texture effect. The metal is far more tactile, and the case should have been all metal, in my opinion, even if it would have meant switching up the assembly and making the back a plate on a unibody or something.
+* The keyboard. It's just not as good as my 12C. I get missed keys sometimes, variable key press strengths required, and, despite being very hard to operate, it's not actually as tactile as my lighter-operation 12C. Keyboards are hard, being a combination of the physical build and the software interpreters, but this one needs some work.
+* The flex when typing. Maybe because I have to press so much harder to make some of the keys work on this unit, but the display can be seen to flex a bit when I press some keys. This doesn't happen on the 12C.
+* The screen isn't quite aligned with the top of the opening on the bezel around it. It's just ever so slightly lower on the left hand side than on the right hand side, but... enough to see. This isn't a screen issue, it's a bezel issue... the bezel is just barely higher on the left side than on the right side.
+* There's a circular smudge in the metal finish (not chemical, but mechanical) near where the logo is applied on the brushed bezel.
+* Mini USB? In 2022? Heck, even in 2015? Today, USBC or bust, but I guess I'd take Micro USB, maybe. I think the DM42 has Micro USB, so perhaps they fixed this.
+* Mine came with firmware V27. This is pretty old by now, I do wish they'd at least deliver flashed ones. Easy enough to flash.
+
+All in all, I would buy this calculator again, I am a happy customer. SwissMicros is on the right path, and I might even buy their WP43 when that model comes out, but I do hope they update the keyboards and consider being less concerned with historical accuracy on the finishes in favor of better tolerances and build quality. If the DM15L were a metal unibody with a plate back, almost all my nitpicks would be avoided.
+
+I'll also be porting FIT to one of these SwissMicros devices some day soon. No reason to have both devices around if you always have the calculator on your desk.
+
+=> gemini://nnix.com/index.gmi Home
