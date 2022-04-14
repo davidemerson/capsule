@@ -36,7 +36,7 @@ I am a person and I do person things.
 => food/main Main courses
 
 ## Gemlog
-=> /gemlog/26.gmi 2022-04-14 Now on satellite!
+=> /gemlog/26.gmi 2022-04-14 Now on satellite
 => /gemlog/25.gmi 2022-03-30 SwissMicros DM15L
 => /gemlog/24.gmi 2022-02-24 Tutanota is for the paranoid and the persecuted
 => food/dips_spreads/ghost_pepper_sauce.gmi 2022-01-07 Ghost Pepper Sauce
