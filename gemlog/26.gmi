@@ -1,0 +1,9 @@
+# Server Move
+
+Got tired of the bots going after my proxy and into gemini, so I went gemini only.
+
+Running nginx to host my https presence, which basically tells people to get a gemini browser if they want to visit.
+
+For gemini services, I switched things up to satellite, written in Go. It's super simple, and effective.
+
+=> gemini://nnix.com/index.gmi Home
