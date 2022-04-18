@@ -22,4 +22,17 @@
 * Heat butter in a 15" pan, to a surface temperature of 350-365F.
 * Fry slices in butter, until crisp on both sides. Ensure the temperature of the pan doesn't drop below 350F as you cook.
 
+## Review
+Hey, we have readers, and they have good ideas! From Zach DeCook,
+> I made your french toast recipe from gemini, but doubled it and made some substitutions: using vanilla yogurt for the cream and maple syrup for simple syrup. Also I used basic white bread, which is much thinner than the bread called for. It took 7 slices of bread.
+> 
+> It was pretty good, but was quite a bit heavy on the allspice and/or nutmeg.
+> 
+> Anyway, that's all I have for feedback. Thanks for the great content!
+> 
+> -Zach
+
+You can find Zach's capsule at:
+=> gemini://gemini.zachdecook.com
+
 => gemini://nnix.com/index.gmi Home
