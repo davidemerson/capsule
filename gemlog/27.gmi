@@ -1,0 +1,9 @@
+# The Unsinkable Molly Brown
+
+Satellite is admirable for its simplicity, but it had some issues, and not small ones. Particularly, directory depth issues. The site is now on Molly Brown:
+
+=> https://tildegit.org/solderpunk/molly-brown
+
+Nice work solderpunk!
+
+=> gemini://nnix.com/index.gmi Home
