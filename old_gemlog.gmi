@@ -1,5 +1,17 @@
 # Old Entries
 
+=> /gemlog/26.gmi 2022-04-14 Now on satellite!
+=> /gemlog/25.gmi 2022-03-30 SwissMicros DM15L
+=> /gemlog/24.gmi 2022-02-24 Tutanota is for the paranoid and the persecuted
+=> food/dips_spreads/ghost_pepper_sauce.gmi 2022-01-07 Ghost Pepper Sauce
+=> /gemlog/23.gmi 2022-01-07 F. retusa Bonsai
+=> food/desserts_snacks/acorn_shortbread.gmi 2021-11-26 Acorn Shortbread
+=> food/bread_pastry/acorn_flour.gmi 2021-10-19 Acorn Flour
+=> /gemlog/22.gmi 2021-10-19 Iris & Ploopy Nano
+=> /food/bread_pastry/high_hydration_sourdough.gmi 2021-09-22 75% Hydration Sourdough, The Best One
+=> gemlog/21.gmi 2021-08-12 Remapping POK3R for OS X
+=> gemlog/20.gmi 2021-07-22 No-Bounce Dock Icons OS X
+=> food/main/bearnaise_hollandaise.gmi 2021-07-13 Sauces Bearnaise & Hollandaise
 => gemlog/19.gmi 2021-07-12 Possession is Burden
 => gemlog/18.gmi 2021-07-12 GoRuck Counter Active Shooter Event Notes
 => gemlog/17.gmi 2021-06-07 aNONradio Streaming Setup

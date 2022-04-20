@@ -20,12 +20,6 @@ I am a person and I do person things.
 
 ## aNONradio
 => radio/156.23.gmi 2022-03-24 DJ Vole's Week-End March 24, 2022
-=> radio/156.22.gmi 2022-02-22 DJ Vole's Week-End February 11, 2022
-=> radio/156.21.gmi 2021-12-24 DJ Vole's Week-End December 24, 2021
-=> radio/156.20.gmi 2021-11-26 DJ Vole's Week-End November 26, 2021
-=> radio/156.19.gmi 2021-11-12 DJ Vole's Week-End November 12, 2021
-=> radio/156.18.gmi 2021-10-22 DJ Vole's Week-End October 22, 2021
-=> radio/156.17.gmi 2021-10-07 DJ Vole's Week-End October 7, 2021
 => old_radio.gmi Old Stuff
 
 ## Food
@@ -38,18 +32,6 @@ I am a person and I do person things.
 ## Gemlog
 => /food/main/french_toast.gmi 2022-04-20 The French Toast got a review.
 => /gemlog/27.gmi 2022-04-20 Now on Molly Brown!
-=> /gemlog/26.gmi 2022-04-14 Now on satellite!
-=> /gemlog/25.gmi 2022-03-30 SwissMicros DM15L
-=> /gemlog/24.gmi 2022-02-24 Tutanota is for the paranoid and the persecuted
-=> food/dips_spreads/ghost_pepper_sauce.gmi 2022-01-07 Ghost Pepper Sauce
-=> /gemlog/23.gmi 2022-01-07 F. retusa Bonsai
-=> food/desserts_snacks/acorn_shortbread.gmi 2021-11-26 Acorn Shortbread
-=> food/bread_pastry/acorn_flour.gmi 2021-10-19 Acorn Flour
-=> /gemlog/22.gmi 2021-10-19 Iris & Ploopy Nano
-=> /food/bread_pastry/high_hydration_sourdough.gmi 2021-09-22 75% Hydration Sourdough, The Best One
-=> gemlog/21.gmi 2021-08-12 Remapping POK3R for OS X
-=> gemlog/20.gmi 2021-07-22 No-Bounce Dock Icons OS X
-=> food/main/bearnaise_hollandaise.gmi 2021-07-13 Sauces Bearnaise & Hollandaise
 => old_gemlog.gmi Old Stuff
 
 ## Links
@@ -65,10 +47,10 @@ If you want your own setup, I've got some GitHub repos here with containers and 
 => https://github.com/davidemerson/nnix.com-kineto Kineto Gemini-to-HTTP proxy in a container.
 => https://github.com/davidemerson/nnix.com-www NGINX proxy for Kineto w/ SSL and domain redirects.
 => https://github.com/davidemerson/capsule The static content for this site.
+=> https://github.com/davidemerson/nnix.com The Molly Brown version of this site (current configuration), packaged with config files and instructions.
 ### as-a-Service
 There are many good services which will host your content with minimal effort. Here's a couple:
 => gemini://midnight.pub/ midnight.pub hosted content
 => https://gemlog.blue/ gemlog.blue hosted capsules
 ### Handy Notes & Docs
-=> gemini://gmi.alterzorg.fr/cuisine/cookies_noisette.gmi How to do cookies in Gemini
-=> gemini://nnix.com/food/desserts_snacks/chocolate_chip_cookies.gmi Another way to do cookies in Gemini
+=> gemini://nnix.com/food/desserts_snacks/chocolate_chip_cookies.gmi How to work with cookies in gemini
