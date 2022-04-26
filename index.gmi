@@ -1,13 +1,6 @@
-```
-             _      
- _ __  _ __ (_)_  __
-| '_ \| '_ \| \ \/ /
-| | | | | | | |>  < 
-|_| |_|_| |_|_/_/\_\
-```
 => https://www-cs-faculty.stanford.edu/~knuth/mmix.html (+)
 
-# nnix log
+# nnix
 => /food/main/french_toast.gmi 2022-04-20 The French Toast got a review.
 => /gemlog/27.gmi 2022-04-20 Now on Molly Brown!
 => radio/156.23.gmi 2022-03-24 DJ Vole's Week-End March 24, 2022
