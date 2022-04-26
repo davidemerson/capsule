@@ -7,50 +7,44 @@
 ```
 => https://www-cs-faculty.stanford.edu/~knuth/mmix.html (+)
 
-## About
-I am a person and I do person things.
+# nnix log
+=> /food/main/french_toast.gmi 2022-04-20 The French Toast got a review.
+=> /gemlog/27.gmi 2022-04-20 Now on Molly Brown!
+=> radio/156.23.gmi 2022-03-24 DJ Vole's Week-End March 24, 2022
+=> old_gemlog.gmi Old Stuff
 
-## Tools
+# Tools
 => org/index.gmi org
 => fit/index.gmi fit
 
-## Contact
+# Contact
 => https://davidemerson.com
 => https://keybase.io/syzygetic
 
-## aNONradio
-=> radio/156.23.gmi 2022-03-24 DJ Vole's Week-End March 24, 2022
-=> old_radio.gmi Old Stuff
-
-## Food
+# Food
 => food/bread_pastry Breads & Pastries
 => food/desserts_snacks Desserts & Snacks
 => food/dips_spreads Dips & Spreads
 => food/drinks Drinks, alcoholic and non-alcoholic
 => food/main Main courses
 
-## Gemlog
-=> /food/main/french_toast.gmi 2022-04-20 The French Toast got a review.
-=> /gemlog/27.gmi 2022-04-20 Now on Molly Brown!
-=> old_gemlog.gmi Old Stuff
-
-## Links
+# Links
 => //brewed.midnight.pub/table.gmi A Table
 => gemini://gemini.circumlunar.space/ the main Gemini project page
 => gemini://geminispace.info/backlinks?nnix.com Backlinks for nnix.com
 
-## Gemini
+# Gemini
 => https://suckless.org/sucks/web/ Because content should be the primary concern.
-### Build Your Own
+## Build Your Own
 If you want your own setup, I've got some GitHub repos here with containers and configurations you can repurpose:
 => https://github.com/davidemerson/nnix.com-gemini Agate Gemini Server in a container.
 => https://github.com/davidemerson/nnix.com-kineto Kineto Gemini-to-HTTP proxy in a container.
 => https://github.com/davidemerson/nnix.com-www NGINX proxy for Kineto w/ SSL and domain redirects.
 => https://github.com/davidemerson/capsule The static content for this site.
 => https://github.com/davidemerson/nnix.com The Molly Brown version of this site (current configuration), packaged with config files and instructions.
-### as-a-Service
+## as-a-Service
 There are many good services which will host your content with minimal effort. Here's a couple:
 => gemini://midnight.pub/ midnight.pub hosted content
 => https://gemlog.blue/ gemlog.blue hosted capsules
-### Handy Notes & Docs
+## Handy Notes & Docs
 => gemini://nnix.com/food/desserts_snacks/chocolate_chip_cookies.gmi How to work with cookies in gemini
