@@ -1,0 +1,14 @@
+# nnix.io Scuttlebutt Service
+
+Scuttlebutt is a protocol for offline decentralized communities. It's really cool. If you want to see what a social network requiring only intermittent connectivity to the internet might look like, jump in!
+
+=> https://nnix.io/ nnix.io Scuttlebutt Service
+
+=> https://scuttlebutt.nz/get-started/ Download a Client
+
+=> https://nnix.io/create-invite Invite yourself to join (get a client first)
+
+=> https://scuttlebutt.nz/docs/introduction/ Here's the docs
+=> https://ssbc.github.io/scuttlebutt-protocol-guide/ Here's the protocol guide.
+
+=> gemini://nnix.com/index.gmi Home
