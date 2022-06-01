@@ -1,0 +1,43 @@
+# Writing Effectively
+
+=> https://www.youtube.com/watch?v=vtIzMaLkCaM Lecture Online
+
+Larry McEnerney of the University of Chicago gives an excellent lecture on writing effectively. Though his audience is academic, his concept is portable to non-academic audiences. These are my notes on the lecture.
+
+## Thinking, Writing, and Readership
+You are using your writing process to help yourself think. However, the language you use to write in a way which helps you think can interfere with a reader's comprehension. When a reader encounters this interference, the reader then:
+* (if they must read your work) gets frustrated.
+* (if they are not required to read your work) stops reading.
+* slows down, rereads.
+* doesn't understand.
+
+Often you never get feedback on this issue because:
+* some of your readers, such as teachers, are paid to read your work.
+* readers no longer reading your work can be a silent act.
+
+## Value
+Once you are outside of your schoolwork and into the professional world, your writing must be _valuable_ to the reader, in addition to being clear, organized and persuasive.
+
+In school, we are taught to exhibit our thoughts as a means of demonstrating comprehension. In a context outside this artifical construct, however, your job as a writer is not to explain to the reader your iedeas, it is to _change their ideas_.
+
+Explaining your ideas only happens in the context of value or persuasion. The explanation itself is never the purpose of writing. You aren't creating new knowledge, you are providing value to a discourse which represents knowledge. New knowledge without this context is cheap.
+
+Ultimately, your readers will decide if something is valuable, but merely being "important", "original", or "new" is not necessarily value.
+
+## Communities and Codes
+Writing is not for indefinite preservation, writing moves a conversation forward, and is abandoned when that conversation moves on. Writing is ephemeral, and for a community of readers in a particular time.
+
+Every community has a code-set of words which connote value. This is because every community has a different set of readers, and those readers determine what knowledge is valuable.
+
+If you do not know your readers and what they doubt, it will be very hard to change their minds.
+
+## Structure
+Your writing should open with a problem for your readers. Not a problem for them to solve, and not your problem (in a vacuum), but a problem which the reader will want to understand or will want to be provided a resolution for.
+
+The problem should be presented with instability, to give the reader a sense of challenge, conflict, or anomaly. The language of instability varies by community. For economists, this might be an assertion that the data commonly used in a particular way is inappropriate for that application. For historians, it might be an assertion that events did not happen as they were believed to happen.
+
+The problem should also use some cost / benefit language. There is likely an identifiable cost to the instability you have illuminated, or there is a benefit to your solution. Possibly both.
+
+Then, with the problem clear, your writing should move to a solution. The reader must know, because you have made it clear, that your work includes a solution to the problem you have identified, and that your solution is presented in this work.
+
+=> gemini://nnix.com/index.gmi Home
