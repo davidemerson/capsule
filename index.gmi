@@ -1,6 +1,7 @@
 => https://www-cs-faculty.stanford.edu/~knuth/mmix.html (+)
 
 # nnix
+=> radio/156.25.gmi 2022-06-03 DJ Vole's Week-End June 3, 2022
 => /gemlog/29.gmi 2022-06-01 Writing Effectively
 => radio/156.24.gmi 2022-05-06 DJ Vole's Week-End May 6, 2022
 => /gemlog/28.gmi 2022-05-01 nnix.io Scuttlebutt Service
