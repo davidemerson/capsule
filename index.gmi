@@ -4,7 +4,7 @@
 => radio/156.25.gmi 2022-06-03 DJ Vole's Week-End June 3, 2022
 => /gemlog/29.gmi 2022-06-01 Writing Effectively
 => radio/156.24.gmi 2022-05-06 DJ Vole's Week-End May 6, 2022
-=> /gemlog/28.gmi 2022-05-01 nnix.io Scuttlebutt Service
+=> /gemlog/28.gmi 2022-05-01 nnix.io Scuttlebutt Service (deprecated)
 => /food/main/french_toast.gmi 2022-04-20 The French Toast got a review.
 => /gemlog/27.gmi 2022-04-20 Now on Molly Brown!
 => radio/156.23.gmi 2022-03-24 DJ Vole's Week-End March 24, 2022
@@ -26,7 +26,6 @@
 => food/main Main courses
 
 # Links
-=> /gemlog/28.gmi nnix.io Scuttlebutt Pub
 => //brewed.midnight.pub/table.gmi A Table
 => gemini://gemini.circumlunar.space/ the main Gemini project page
 => gemini://geminispace.info/backlinks?nnix.com Backlinks for nnix.com
