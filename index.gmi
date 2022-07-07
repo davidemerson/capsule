@@ -1,6 +1,7 @@
 => https://www-cs-faculty.stanford.edu/~knuth/mmix.html (+)
 
 # nnix
+=> radio/156.26.gmi 2022-06-03 DJ Vole's Week-End July 8, 2022
 => /food/drinks/ginger_limeade.gmi 2022-06-20 (Ginger) Limeade
 => radio/156.25.gmi 2022-06-03 DJ Vole's Week-End June 3, 2022
 => /gemlog/29.gmi 2022-06-01 Writing Effectively
