@@ -1,0 +1,64 @@
+# Building out a SOC
+I wrote this out for a HARO request, and figured it was worth posting the whole thing, because this stuff is getting done poorly everywhere!
+
+So, how do you build out a security operations cabability? What does one prioritize?
+
+## The Plan
+All organizations come with legacies, and those legacies, of decision or indecision, infrastructure, product offerings, and sales tactics, among many others, influence the nature of an organization's cybersecurity program long before any program coalesces into a managed reality.
+
+As such, it's rare that any CISO, much less a newly-minted CISO, encounters an opportunity to build a program truly from scratch. Before all else, one must acknowledge the most crucial element of any successful program: the careful consideration of context.
+
+You may be charged with the construction of a novel cybersecurity initiative at your organization - a Security Operations Center, for example. Indeed, this might be the first time your organization has a function called "SOC", and you may even be the first hire dedicated to "Security" in the enterprise. Assuredly, however, there are legacies whose history stretches well beyond your tenure in this role, and those legacies will shape what kind of program you must build.
+
+Failure to acknowledge this context obviates the need for almost any other planning effort, as there is no single "canned strategy" which works at all organizations. There are strategic fixtures, tools, best practices, and frameworks which can be useful, but none of them without adaptation.
+
+With that in mind, as a newly-minted CISO, how do you muster talent, technology, and feeds to accomplish the task of building out a SOC?
+
+# Talent
+Talent comes first, and remains the top priority even after a SOC is operational. There's no tool which can replace a strong talent pool, and those tools which promise to effect such a reduction in the need for talent will, paradoxically, remain inaccessible to organizations which do not have the appropriate talent in the first place.
+
+Define your intended organizational structure and Concept of Operations for your SOC. There are numerous example frameworks available on the internet, and none of these were written for your organization, so read a few of them and cherry-pick those parts which reflect your ability to attract and retain talent.
+
+Don't have a ton of budget for headcount? Maybe you can do without a deep escalation tree, and hire more-senior staff.
+
+Work at a company which already has a strong technology helpdesk? Perhaps you can broker a deal with the leadership of the helpdesk to be your initial (Level 1) triage.
+
+Is the DevOps team over-scale and facing a reduction in force? Transfer experienced talent into your organization to secure legacy knowledge and build a cross functional pool of experience which wouldn't traditionally be in your candidate pool if you'd opened a "Senior SOC Analyst" position.
+
+You might find that the act of defining the SOC organization you'd like to build illuminates your most-critical hires, but, if not, consider this: senior talent looks expensive only until you understand the true cost of inexperience. Initially, you require builders, not rule-followers, and you aren't going to have the time you'll have later in the SOC lifecycle to manage team members dependent on your guidance. Juniors are expensive, then, in the initial stages of an organization. Hire at the mid- to senior individual contributor tier first, and save hiring juniors for a later phase of maturity, when you require a pipeline to support promoting from within.
+
+Another reason to hire in the middle of your organizational plan, seniority wise, will be clear as you begin to select technologies and feeds, as these are augmentations of your capabilities, not absolute contributions to process.
+
+# Technology
+Once initial hiring is secured, your attention should turn to the technologies necessary to augment and direct the efforts of your team. Remember that no technology, alone, is a productive entity - that is the sole domain of personnel, even in 2022. Technologies enhance the capabilities of your staff, and may sequester the efforts of your staff in processes and services which further enhance your team's abilities. Technologies do not, intrinsically, represent productivity.
+
+To rephrase, there's no Artificial Intelligence, Machine Learning, Bayesian Algorithm, or Shell Script which acts alone, not one. Sorry marketeers, but what you've got is still a hammer, and I advise all tech leadership to treat products at all levels of "sophistication" as merely tools which may, under the right circumstances, improve the effectiveness of work already within the capabilities of their staff.
+
+So hire your staff, work with those new hires to determine what technologies they are comfortable within, and implement those technologies in the order which they address otherwise insurmountable gaps in your organizational scale or effectiveness.
+
+Was your organization reading logs manually? This doesn't scale well - sounds like you need a SIEM.
+
+Do you have a means of correlating user behavior, such as mass exfiltration of their onedrive contents, with user characteristics, such as "likely looking for another job"? Was Sally who administers Sharepoint helping HR find these folks in her spare time heretofore? Perhaps you need a tool in which you can sequester Sally's analyses and these user characteristics for automated evaluation by an always attentive algorithm.
+
+Implement what your team is comfortable with, and implement those solutions which reflect foundational activities of your organization. Don't buy shiny software on the strength of its often generic pitch.
+
+Hint: the more often you hear a tool pitched on its construction rather than its functionality (<cough>ai/ml</cough>), the less likely it is you can accurately evaluate that tool's applicability to your organization.
+
+Longer term, once you have a functioning suite of technologies operated by your team, revisit those technologies and evaluate them for redundancy or applicability. Consolidate or cull those which are no longer necessary, and keep your operations platform to a practical, streamlined minimum.
+
+# Feeds
+Thankfully, if you're down to selecting feeds, you've done the heavy lifting in the previous two sections. Once you've hired a core team, and once you've selected technologies in which that team is competent, one can turn to augmentations of knowledge, rather than merely production.
+
+Feeds selection comes last among the three core components of a SOC build-out for a few reasons:
+1. Without a staff (including yourself), you have no abilities which may be amplified by tools. Ideally, this means that without a staff, your organization has not invested in tools, though I realize that some organizations specialize in "bringing owls to Athens".
+2. You won't have known what feeds you can use until you have tools in which to use those feeds. These tools may be modest, such as a script authored by your team to evaluate the external profile of a target domain against third party intelligence. Until these exist, however, a feed alone is no more useful than a tool without an operator.
+3. (likely) Without a staff and their supporting tools, you won't have a sense of which particular pieces of intelligence are most useful to your analyses, and feeds purchased for general use tend to be wastefully expensive and occasionally suboptimal at many things, rather than competent at a few.
+
+Once you have a staff, and that staff is competent in their tool selections, however, it's likely you will be able to accurately ascertain what points of data, or pieces of intelligence, aren't bundled with your technologies or would support woefully inadequate parts of your analytical capabilities. These data, in order of their criticality to your enterprise, are eligible to be provided in a feed.
+
+Build an inventory of these requisite data, and evaluate feeds on the marketplace for their ability to provide them. Whatever you do, don't let this activity get in the way of talent development and retention or technology optimization, because both of those are far more important.
+
+Longer term, once all your feeds are in place, as with technologies before them, regularly revisit those feeds and evaluate them for redundancy or applicability. Consolidate or cull those which are no longer necessary, and keep your feed inventory to a practical, streamlined minimum.
+
+
+=> gemini://nnix.com/index.gmi Home
