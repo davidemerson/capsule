@@ -18,5 +18,6 @@
 => ginger_lemon_elixir.gmi Ginger Lemon Elixir
 => coffee.gmi Coffee
 => ginger_limeade.gmi (Ginger) Limeade
+=> mint_ginger_iced_tea.gmi Mint Ginger Iced Tea
 
 => gemini://nnix.com/index.gmi Home
