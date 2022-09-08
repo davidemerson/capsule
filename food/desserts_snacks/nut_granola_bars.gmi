@@ -6,7 +6,7 @@
 * 90g Hemp Hearts
 * 50g Shredded or Flaked Coconut
 * 60g Oats
-* 1t Kosher Salt
+* 1t Kosher Salt << reduce a little, maybe 0.5t
 * 150g Maple Syrup
 * 8g Vanilla Extract
 
@@ -15,7 +15,7 @@
 * Mix together the maple syrup and the vanilla extract.
 * Pour the syrup-vanilla mixture over the dry mixture and mix everything thoroughly until all surfaces are coated.
 * Press into an 8"x8" square pan, or a 9" pie pan, or something like that, lined in parchment.
-* Bake in an oven at 325F for 35min.
+* Bake in an oven at 325F for 35min. << this was not long enough, maybe double them until they're much drier... could have been the nuts were too wet, idk
 * Cool for one hour before cutting.
 
 => gemini://nnix.com/index.gmi Home
