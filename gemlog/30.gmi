@@ -1,7 +1,7 @@
 # Building out a SOC
 I wrote this out for a HARO request, and figured it was worth posting the whole thing, because this stuff is getting done poorly everywhere!
 
-So, how do you build out a security operations cabability? What does one prioritize?
+So, how do you build out a security operations capability? What does one prioritize?
 
 ## The Plan
 All organizations come with legacies, and those legacies, of decision or indecision, infrastructure, product offerings, and sales tactics, among many others, influence the nature of an organization's cybersecurity program long before any program coalesces into a managed reality.
