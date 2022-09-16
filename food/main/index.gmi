@@ -1,4 +1,5 @@
 # Main Courses
+=> meat_loaf.gmi Meat Loaf
 => beef_bourguignonne.gmi Beef Bourguignonne
 => butter_chicken.gmi Butter Chicken
 => french_toast.gmi French Toast
