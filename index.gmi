@@ -1,6 +1,7 @@
 => https://www-cs-faculty.stanford.edu/~knuth/mmix.html (+)
 
 # nnix
+=> /food/desserts_snacks/chocolate_chip_cookies.gmi 2022-10-01 Cookies Update (Thanks Scott!)
 => /food/main/meat_loaf.gmi 2022-09-16 Meat Loaf
 => /food/desserts_snacks/nut_granola_bars.gmi 2022-09-10 Nut Granola Bars Update
 => /food/desserts_snacks/chocolate_chip_cookies.gmi 2022-09-08 Cookies Update
