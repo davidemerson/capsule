@@ -1,6 +1,7 @@
 => https://www-cs-faculty.stanford.edu/~knuth/mmix.html (+)
 
 # nnix
+=> /textile_block/index.gmi 2022-11-28 FDCP Textile Block
 => /gemlog/31.gmi 2022-11-12 The Story of Byron the Bulb (Pynchon)
 => /food/desserts_snacks/chocolate_chip_cookies.gmi 2022-10-01 Cookies Update (Thanks Scott!)
 => /food/main/meat_loaf.gmi 2022-09-16 Meat Loaf
