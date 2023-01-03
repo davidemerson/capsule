@@ -1,4 +1,5 @@
 # Desserts & Snacks
+=> chocolate_shortbread.gmi Chocolate Shortbread Cookies
 => nut_granola_bars.gmi Nut Granola Bars
 => acorn_shortbread.gmi Acorn Shortbread
 => candied_pecans.gmi Candied Pecans
