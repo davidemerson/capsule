@@ -60,4 +60,9 @@ The first of the traditional pair is settled, and I'll build a second once I hav
 
 => images/22-1.png This is what the setup looks like.
 
+## Update 6 March 2023
+I stopped using the Ploopy Nano. It worked great for mousing, not so much for scrolling (no mousewheel) and I didn't want to spare the hotswap socket on my Iris for a rotary encoder I might bind to that functionality, at least not right now. I wish there were a way to elegantly encode a rotation of the nano ball into scrolling, or modify the ball to be a scrollball when a key is pressed. I believe this is technically possible, but I have, like, a job and a life and I just need scrolling to work better.
+
+Nothing else has changed about my setup otherwise. Two Iris keyboards, maps available on GitHub, and I love them both.
+
 => gemini://nnix.com/index.gmi Home

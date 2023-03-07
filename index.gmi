@@ -1,6 +1,7 @@
 => https://www-cs-faculty.stanford.edu/~knuth/mmix.html (+)
 
 # nnix
+=> /gemlog/22.gmi 2023-03-06 Iris & (no more) Ploopy Nano
 => /food/desserts_snacks/chocolate_shortbread.gmi 2023-01-02 Chocolate Shortbread Cookies
 => /food/drinks/honey_rum_drink.gmi 2023-01-01 David's Honey Rum Drink (use up white rum)
 => /textile_block/index.gmi 2022-11-28 FDCP Textile Block
