@@ -1,0 +1,71 @@
+# McMansion or Bust
+
+I recently renovated my primary residence. The project, though modest in size, was rather epic in both cost and timeline, and left me convinced that the residential real estate market is rotten to its core. What I experienced may be specific to certain markets (I live near Washington DC), so it's an anecdote, but I suspect that much of the saga related here has played out in areas with high costs of living and high real estate liquidity.
+
+## The Problem
+My partner and I bought a home built in 1954; it's a slab-on-grade modern home designed by David Yerkes. It's got two bedrooms, an office, and two bathrooms. By modern standards, it's a small home, at 1,651 ft^2. We bought it knowing there were major issues with the place, but we also knew that it was the best place for us at that time, in that market. The proportions of the home are pleasing, the clarity of the design is both immediately accessible and yields dividends over time lived in an environment where lines meet properly, floorplans walk easily, and privacy abounds, despite glass aplenty and a dense surrounding built environment. Furthermore, the property itself was large for the neighborhood, with an earth berm around three sides of the back yard - valuable even if one were to build a new home on the site.
+
+## The First Try
+After living with the home for a year, we had a fairly accurate inventory of things which needed fixing, things which bothered us, and things we loved about the residence. We opted to combine that list into a single project plan, to simplify the interruption to our lives, and to reduce cost, since it's easier to do many things at once when, say, a concrete floor is open, than to piecemeal changes over the years.
+
+We hired an architect, and he designed a practical solution which both preserved the character of the existing structure and allowed us the flexibility to live in the residence through renovation: an attached master bedroom suite and garage. This addition would increase the footprint of our home by around 700ft^2, modernize all utilities, and give us two indoor parking spaces.
+
+Once the addition was complete, we'd move into the new structure, and live there while the original structure was renovated. A connection between the original structure and the new structure would be completed in this secondary phase, and we'd end up with a unified project, expanded and modernized.
+
+The cost of construction in our area is fairly high, so this addition would also cost about $500,000, or approximately half the value of the unimproved property. It's unlikely this now-2,351 ft^2 home would be worth $500,000 more after this addition, but the differential was one which we could support for the purposes of lifestyle and architecture.
+
+It was at this juncture that a rather problematic discovery bumped into our plan: the street outside our home could be widened at any time, and the state, which owns the road, would have no responsibility to ensure that the grade of the new street matched up with the garage we'd just built at (relatively) great cost. Clearly, if we were going to spend this much money on renovation, we needed to mitigate the longer-terms risks to the viability of the design.
+
+Actual Cost $23,000
+* Architect Fees: $15,000
+* Survey: $6,500
+* Valuation Advice: $1,500
+
+## The Second Try
+We consulted with some realtors and our architect, and trusted advisors who knew the area, and landed on something more immune to the whims of the state highway department: a new home, with the first level at street grade, open to the street, and the second level at the grade of the current home, opening to the back yard (which is substantially higher than the front yard grade, even today).
+
+A new home design has a number of advantages over a renovation, but among them is cost control, since you're not fighting with the designs and decisions of the past, but able to do something that, even if more expensive in absolute terms, is bounded in scope. At least, that's how it is supposed to work.
+
+We worked through the details for a year or so. The resultant design was almost exactly what we wanted, 3500ft^2, three bedrooms, two offices, four bathrooms, and a garage. It was a simple structure, mostly glass in back, poured concrete floors. One low-slung upper story had access to the back yard, and it appeared to be a two-story structure from the street, where the grade allowed for a garage and office level below the main living space.
+
+Pleased with the design, we proceeded to model the financial reality of construction, which had heretofore been reduced to a reasonable estimate on a per-square-foot basis. Including utilities and earthworks, the new home would cost on the order of $1,500,000 to build, in addition to the $800,000 we paid for the land. This number, in a vacuum, was not surprising to us, and was not a deterrent to building. We wanted to perform a proper analysis in the context of the real estate market, however, so we assembled a panel of professional appraisers, real estate agents, and a general contractor to review the design concept and evaluate the construction costs against the likely valuation, critical for obtaining the necessary financing and averting either an expensive project abandonment or a major loss upon sale of the home.
+
+The panel we assembled turned this project on its head. A couple experts, both of them real estate agents, believed we could easily realize the $2.3M investment, at least as a break-even, if we were to sell the project after construction. The contractor considered the construction costs outlined fairly reasonable, but believed that the project's total valuation was at risk of falling well below the cost of construction. While I do not doubt their expertise, it's important to note that a bank will not seek the opinion of a realtor or a contractor when issuing a construction loan, or when converting that construction loan to a traditional mortgage. It was the professional appraisers' opinions which mattered most in that regard.
+
+The professional appraisers, of which there were three (all independent of one another), returned a striking verdict: this project would be worth $1.35M to $1.45M, all-in. In other words, to build this home, in their opinion, we would be taking no less than an $850,000 cash loss. At a traditional 80% loan to value rate for the mortgage, both in construction and in final lending form, we'd be eligible for no more than $1.16M lent, which meant that, aside from funding the $850,000 cash loss, we'd have to pony up an additional $290,000 in cash to finance the remainder. That's a $1.140M cash outlay for something we wouldn't, in their opinion, be able to sell without taking a loss on the majority of the value.
+
+Was there anything we could do to improve the valuation of this home and make construction worthwhile? Indeed, the panel had some answers, illuminating the pressures which influence our housing market today:
+
+1. Build a larger home. If you're going to break ground, it's hardly ever worth doing that for the sake of 3500 square feet of living space. More enclosed square footage costs less to build than it will add to the valuation, practically up to the maximum allowed space on your lot. We might consider 3500 square feet of space to be adequate for almost any living requirements, but the market has no such concern with practicality - if you build more space, the valuation will rise, probably faster than that space will cost you in construction.
+2. Build more bathrooms and bedrooms. Bathrooms and bedrooms, well past our tolerance for having them in our home, increase the value of a residence. Like building more space, they will not cost as much to build as they will contribute to the value of the finished home.
+3. Build more levels "above-grade". Despite the fact that the lower level of this design had a front wall entirely made of glass, and was naturally drained to the street, it was not counted in our appraisal as living space, since it was considered "below grade", like a basement.
+4. Build something in a more traditional style, rather than a modern home. Modern homes sell for less money per square foot than traditional homes, and often cost more to construct.
+
+Though all the above are anathema to our sensibilities, the first item, square area enclosed, was the most menacing in its implications. If you traced a curve of building costs per square foot against valuation, adding approximately a single floor of bedrooms and bathrooms, 2400 square feet, would likely push the project into break-even territory, despite inflating the total cost of the project to $3M. Adding two more floors to the design, one of them almost entirely open space and the other filled with bedrooms and bathrooms, would likely make the project profitable, at a total cost of around $3.5M.
+
+Since we did not want a four story colonial mcmansion hotel for guests with dysentery, we scuttled this project.
+
+Actual Cost $62,500
+* Architect Fees: $60,000
+* Valuation Advice: $2,500
+
+## The Last Resort
+Fairly disgusted with the solutions available to us, we embarked on a renovation of our home. This is not the kind of renovation you'll ever read about in a real estate publication, we're not redoing the kitchen or the bathrooms, or adding square footage. The home is the same size, to the inch, that it was the day construction stopped in 1954. We replaced the roof and siding, insulated the whole house to modern standards, refinished the floors, replaced a lot of drywall, upgraded the electrical service, swapped a few windows, and painted and re-trimmed everything.
+
+The value of our house is likely unchanged by any of this work, as it's still considered too small for a modern home, and too old to boot. This is fine by us, the renovation cost far less than the construction of either previously-proposed project. Furthermore, the expenditure of these funds is somehow far more honest. We spent about $120,000 on our happiness and comfort, not expecting to make it back, and without compromising on our aesthetic or ethical values.
+
+Grand Total $205,500
+* The First Try: $23,000
+* The Second Try: $62,500
+* The Last Resort: $120,000
+
+## Conclusions
+Your neighborhood is being taken over by the largest possible homes on every lot because that's the only profitable way to build a home. Furthermore, your neighborhood is being built in a homogeneous and likely "traditional" style because that increases the profitability of those houses. This profitability concern results in a product (housing) which is environmentally catastrophic, unaffordable to most, aesthetically uninteresting, and suboptimally planned.
+
+Don't fall for any of this bullshit. Buck the trend and forget about the treadmill of homeownership and lending. If you want to build a beautiful home without compromise, pay cash and plan to live in it until you die. If you just need a place to live and don't want it to be ugly, purchase an existing home which most closely approximates your aesthetic and renovate it as needed for your comfort (in cash).
+
+The fact that mortgages are a relatively inexpensive form of debt is only useful up to the utility value of shelter, and should not be the mechanism by which you perpetrate a silly, tasteless scheme upon your neighbors for the sake of modest profit.
+
+Finally, buy reasonably-sized modern homes second hand, if that's the kind of thing you're after. They depreciate like rocks.
+
+=> gemini://nnix.com/index.gmi Home
