@@ -1,0 +1,21 @@
+# What makes your entity unique? What can you routinize (outsource, automate, etc)?
+
+There are patterns which pervade all practice, whether they be policies, processes, roles, or duties. Where these patterns interface with one another, they interact, sometimes reinforcing one another, sometimes interfering with one another. Most of all, at scale, they form functioning entities, whether a team, department, or company. Many of these patterns are common to most, or all, entities of a type. Some of these patterns are unique to an entity. These unique patterns are proprietary and differentiating.
+
+As a leader, you have strategic responsibility for an entity, and the most valuable fraction of your entity is that which sets it apart from the prevailing environment in which it exists. Foremost, you must know what these differentiating patterns are - you must know what makes your entity unique. The balance of the patterns at your entity should be robustly routinized.
+
+You do not need to be a master of all trades, that's impractical. When people flippantly invoke this "master of all trades" notion, they are often more accurately describing "horizontal thought" or "the ability to synthesize many concepts". The modern workplace requires that all its participants be horizontal thinkers, this is hardly a unique attribute.
+
+What is required of leadership, then, is the competent stewardship of proprietary patterns, their interfaces, with other patterns (some generic, some proprietary), and the results your organization realizes from all patterns which it implements. As an individual contributor, or where leadership guides an entity which interfaces with others, knowledge of that interface, an understanding of how what you do reinforces or interferes with what others do, is crucial. Again, this is what some misinterpret as a requirement to "master all trades" and it is merely the requirement that you synthesize the effects of your patterns interfacing with others' patterns.
+
+Leadership is frequently, and increasingly, lost in the exhaltation of the technical. To conflate the technical with the strategic is at least confused, and at worst a dereliction of duty. Do not let technology intimidate your work as a leader - there is nothing fundamentally new in the universe, only novel convergences of patterns, and many of these are only locally novel.
+
+The generic patterns, those you robustly routinize, may be outsourced, automated, or so ingrained in operations, through practice or legacy that they incur little practical effort of distraction.
+
+Other notes:
+
+The "cult of controls" often feeds the exaltation of the technical, and likewisefeeds on increasingly strategically challenged executive leadership. There are many ways to secure a network, IDS being only one.
+
+Managed services have rightful pressure to be broadly talented because they act as a super-contributor. They do not have strategic authority over the organization they serve, so they are essentially an individual contributor. Unlike the individual contributor, they are many individuals, and so the expectation that they have broad capability, well beyond a reasonable expectation for an individual, is rational.
+
+=> gemini://nnix.com/index.gmi Home
