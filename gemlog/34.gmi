@@ -1,0 +1,22 @@
+# Pixel 7a & GrapheneOS
+
+I'm testing a phone for work, and it's an Android, which is new to me. I swapped the OS for GrapheneOS, which is a security-focused minimalist Android distribution, and the phone hardware is a Pixel 7a. Here's how someone fairly familiar with iPhones views a current-generation Android phone as their daily driver:
+
+## The Good
+* Android is much more refined than the last time I used it (2014), and GrapheneOS, at least for the android-uninitiated like me, is without a hiccup. Sideloading an app store is no big deal, and I have experience no dearth of apps I need/want.
+* I don't like having a browser on my phone. In iOS, this breaks any application which needs to open a link (such as Zoom), since Safari is the default link handler, and then passes app specific things to the appropriate application. In Android, the browser service is separate from the link handling service, so all in-app invocations of links work fine as long as there's an appropriate link handler installed, and any other links do not work. This is exactly my desired behavior.
+* Some of my most frequently-used applications are superior on Android (better swipe commands, better design, more options, etc) - Outlook, Todoist, and Teams are particularly better on Android than iOS.
+* Third party launchers are amazing. I'm using Takan, and it's exactly what I always wanted in iOS. iOS should allow this kind of extreme-minimalist configuration.
+* The Gboard keyboard is really comfortable. I expected it to be worse than the Apple keyboard, which is also excellent, but it's basically on-par. This was not the case in 2014 when I last used Android daily.
+* GrapheneOS comes with almost nothing installed, and what little is installed by default can also be removed if you'd prefer. This OS is the ideal starting point for a minimalist phone.
+* My AirPod Pro 2 work great in Android. Heck, moving to Android even solved a minor latency issue I was having when they were used as a headset in Teams.
+* Screen quality is excellent.
+
+## The Bad
+* I have become a pariah in any thread which is otherwise composed of iMessage users. Some folks moved to Signal to accommodate me, but where I won't ask that of a group, or where that group doesn't want to, I'm just cut out of the conversation, since my presence causes a fallback to MMS, which nobody wants.
+* Notifications are a freaking mess. It takes forever to get things the way you want them, and I'm not sure I could recreate this again without the same optimization process.
+* There's no hardware silent-mode toggle, only a key command which puts the phone in vibrate, but does not allow you to quickly return it to noise-mode. It's hard to beat the convenience of a hardware switch for this purpose.
+* Image quality is mediocre on the Pixel 7a main camera. It's not awful, certainly better than my iPhone 8, but no match for an iPhone 12, for example, or 13/14. This might be software, since GrapheneOS has a different camera app than the stock Pixel image. I'm not sure. This camera is acceptable in GrapheneOS if you aren't coming from a recent iPhone.
+* Brightness is not as easily adjustable as on iOS, and the autoadjust makes decisions (both brighter and dimmer) that I don't personally find comfortable.
+
+=> gemini://nnix.com/index.gmi Home

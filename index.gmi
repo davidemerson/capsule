@@ -1,6 +1,7 @@
 => https://www-cs-faculty.stanford.edu/~knuth/mmix.html (+)
 
 # nnix
+=> /gemlog/34.gmi 2023-06-05 Pixel 7a & GrapheneOS
 => /gemlog/33.gmi 2023-05-15 What should you outsource?
 => /gemlog/32.gmi 2023-04-03 McMansion or Bust
 => /gemlog/22.gmi 2023-03-06 Iris & (no more) Ploopy Nano
